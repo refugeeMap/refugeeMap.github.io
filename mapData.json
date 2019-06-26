@@ -11,7 +11,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
     "__1": "",
     "Telefon": "02 51 / 4 92-92 92",
-    "E-Mail": "jobcenter@stadt-muenster.de",
+    "mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": "Arbeit finden"
   },
   {
@@ -26,7 +26,7 @@
     "Website": "https://www.mamba-muenster.de/start/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-37",
-    "E-Mail": "klose@ggua.de",
+    "mail": "klose@ggua.de",
     "Schlagworte": "Arbeit finden, Beratung"
   },
   {
@@ -41,7 +41,7 @@
     "Website": "https://www.stadt-muenster.de/zuwanderung/startseite.html",
     "__1": "",
     "Telefon": "02 51 / 4 92-70 81",
-    "E-Mail": "ki-muenster@stadt-muenster.de",
+    "mail": "ki-muenster@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -56,7 +56,7 @@
     "Website": "https://www.stadt-muenster.de/sozialamt/startseite.html",
     "__1": "",
     "Telefon": "02 51 / 4 92-50 01",
-    "E-Mail": "sozialamt@stadt-muenster.de",
+    "mail": "sozialamt@stadt-muenster.de",
     "Schlagworte": "Erstaufnahme, Wohnen, finanzielle Leistungen, soziale Dienste, Ehrenamt, Vereine, Initiativen"
   },
   {
@@ -71,7 +71,7 @@
     "Website": "http://afaq-verein.de/",
     "__1": "",
     "Telefon": "02 51 / 39 47 58 27",
-    "E-Mail": "info@afaq-verein.de",
+    "mail": "info@afaq-verein.de",
     "Schlagworte": "Flüchtlingshilfe, Integration, Übersetzung, Beratung, Wohnungssuche, Ausländerrecht, Kultur, Migranten-Selbstorganisation"
   },
   {
@@ -86,7 +86,7 @@
     "Website": "https://www.mum-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 13 34 87 99",
-    "E-Mail": "info@mum-muenster.de",
+    "mail": "info@mum-muenster.de",
     "Schlagworte": "Treffpunkt, Kaffeehaus, Angebote für Senioren, Flüchtlingshilfe"
   },
   {
@@ -101,7 +101,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/migrationsberatung.php",
     "__1": "",
     "Telefon": "02 51 / 1 62 00 78",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Integrationskurs, Kinderbetreuung, Bildung, Ausbildung, Weiterbildung, Gesundheitsversorgung, Ausländerrecht, Schule, Ausbildung, Erziehung"
   },
   {
@@ -116,7 +116,7 @@
     "Website": "https://www.diakonie-muenster.de/web/beratungs-und-bildungscentrum/main/themenfelder/migration.html",
     "__1": "",
     "Telefon": "02 51 / 4 90 15-0",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Wohnungssuche, Mietprobleme, Arbeit finden, Übersetzung, Schule, Ausländerrecht, Anerkennung von Schul- und Berufsabschlüssen, Bildung"
   },
   {
@@ -131,7 +131,7 @@
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/migrationsdienst",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-430",
-    "E-Mail": "soziale.beratungsdienste@caritas-ms.de",
+    "mail": "soziale.beratungsdienste@caritas-ms.de",
     "Schlagworte": "Asyl, Schule, Kindergarten, Deutsch lernen, Behördengänge, Diskriminierung, finanzielle probleme, psychische Probleme"
   },
   {
@@ -146,7 +146,7 @@
     "Website": "https://www.ukm.de/index.php?id=psych_flchtlingskinder",
     "__1": "",
     "Telefon": "02 51 / 83-56 673",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Diagnostik, Psychotherapie, Elterngespräche, Familiengespräche, Gruppenangebote, Supervision, Gruppenangebote"
   },
   {
@@ -161,7 +161,7 @@
     "Website": "https://www.ggua.de/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-0",
-    "E-Mail": "info@ggua.de",
+    "mail": "info@ggua.de",
     "Schlagworte": "Flüchtlingsberatung, Migrationsberatung"
   },
   {
@@ -176,7 +176,7 @@
     "Website": "http://afrika-kooperative.blogspot.com",
     "__1": "",
     "Telefon": "01 70 / 4 76 07 09",
-    "E-Mail": "info@afrika-kooperative.de",
+    "mail": "info@afrika-kooperative.de",
     "Schlagworte": ""
   },
   {
@@ -191,7 +191,7 @@
     "Website": "http://www.amnesty-muenster-osnabrueck.de/gruppen/asylgruppe-1314/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "amnesty-asylgruppe@muenster.de",
+    "mail": "amnesty-asylgruppe@muenster.de",
     "Schlagworte": "Beratung, Flucht, Asyl,Asylverfahren"
   },
   {
@@ -206,7 +206,7 @@
     "Website": "https://www.freiwilligenagentur-muenster.de/de/engagieren/fuer-gefluechtete-menschen/ehrenamt-von-gefluechteten/",
     "__1": "",
     "Telefon": "02 51 / 4 92 59 70",
-    "E-Mail": "kohl@stadt-muenster.de",
+    "mail": "kohl@stadt-muenster.de",
     "Schlagworte": "Beratung, Ehrenamt"
   },
   {
@@ -221,7 +221,7 @@
     "Website": "http://www.welcomemuenster.de/projekte/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "info@welcomemuenster.de",
+    "mail": "info@welcomemuenster.de",
     "Schlagworte": "Beratung, Internet, Treffpunkt"
   },
   {
@@ -236,7 +236,7 @@
     "Website": "https://www.stadt-muenster.de/schulamt/startseite.html",
     "__1": "",
     "Telefon": "02 51/4 92-40 01",
-    "E-Mail": "bildung@stadt-muenster.de",
+    "mail": "bildung@stadt-muenster.de",
     "Schlagworte": "Ferienkurse, Schule, Volkshochschule, Schulpsychologische Beratungsstelle"
   },
   {
@@ -251,7 +251,7 @@
     "Website": "https://www.stadt-muenster.de/kinderbuero/startseite.html",
     "__1": "",
     "Telefon": "02 51/4 92-51 09",
-    "E-Mail": "kinderbuero@stadt-muenster.de",
+    "mail": "kinderbuero@stadt-muenster.de",
     "Schlagworte": "Ferienkurse, Freizeit, Kinder, Maxi-Turm, Kinderbetreuung"
   },
   {
@@ -266,7 +266,7 @@
     "Website": "",
     "__1": "",
     "Telefon": "02 51/4 92-36 36",
-    "E-Mail": "auslaenderamt@stadt-muenster.de",
+    "mail": "auslaenderamt@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -281,7 +281,7 @@
     "Website": "https://www.frauennotruf-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 3 44 43",
-    "E-Mail": "info@frauennotruf-muenster.de",
+    "mail": "info@frauennotruf-muenster.de",
     "Schlagworte": "Beratung, Frauen, sexualisierte Gewalt, gewalt, Notruf"
   },
   {
@@ -296,7 +296,7 @@
     "Website": "https://www.freiwilligenagentur-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 4 92 59 70",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -311,7 +311,7 @@
     "Website": "https://radfahrenfuerfluechtlinge.wordpress.com/",
     "__1": "",
     "Telefon": "02 51 / 1 36 74 73",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Fahrradfahren lernen"
   },
   {
@@ -326,7 +326,7 @@
     "Website": "https://fluechtlingshilfe.st-nikolaus-muenster.de/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -341,7 +341,7 @@
     "Website": "http://www.fluechtlingshilfe-muenster-ost.de/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -356,7 +356,7 @@
     "Website": "https://www.fluemo-mauritz.de/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "kontakt@fluemo-mauritz.de",
+    "mail": "kontakt@fluemo-mauritz.de",
     "Schlagworte": ""
   },
   {
@@ -371,7 +371,7 @@
     "Website": "http://www.muenster.org/svfh/",
     "__1": "",
     "Telefon": "02 51 / 53 58 90",
-    "E-Mail": "stjoseph-muenster@bistum-muenster.de",
+    "mail": "stjoseph-muenster@bistum-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -386,7 +386,7 @@
     "Website": "https://www.fluechtlingsnetzwerk-hiltrup.de/",
     "__1": "",
     "Telefon": "0 25 01 / 1 62 53",
-    "E-Mail": "info@fluechtlingsnetzwerk-hiltrup.de",
+    "mail": "info@fluechtlingsnetzwerk-hiltrup.de",
     "Schlagworte": ""
   },
   {
@@ -401,7 +401,7 @@
     "Website": "http://willkommen-in-mecklenbeck.de/",
     "__1": "",
     "Telefon": "02 51 / 7 16 40 (Anrufbeantworter)",
-    "E-Mail": "organisation@willkommen-in-mecklenbeck.de",
+    "mail": "organisation@willkommen-in-mecklenbeck.de",
     "Schlagworte": ""
   },
   {
@@ -416,7 +416,7 @@
     "Website": "http://www.st-marien-und-st-josef.de/caritative-angebote/obolus-kinderhauser-sozialladen/",
     "__1": "",
     "Telefon": "02 51 / 62 56 19 26 (Anrufbeantworter)",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Günstige gespendete Haushaltswaren und Möbel für Bedürftige"
   },
   {
@@ -431,7 +431,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/joblotsen/",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Jobsuche, Stellenanzeigen finden und lesen, Lebenslauf erstellen, Bewerbung, Initiativbewerbung vorbereiten, Rechtschreibung und Grammatik, Vorbereitung auf das Vorstellungsgespräch, alternative Formen der Jobsuche"
   },
   {
@@ -446,7 +446,7 @@
     "Website": "http://www.amnesty-muenster-osnabrueck.de/",
     "__1": "",
     "Telefon": "02 51 / 4 73 02",
-    "E-Mail": "bezirk@amnesty-muenster-osnabrueck.de",
+    "mail": "bezirk@amnesty-muenster-osnabrueck.de",
     "Schlagworte": "Rechtliche Beratung, Vermittlung therapeutischer Unterstützung, Anwälten, Deutschkursen"
   },
   {
@@ -461,7 +461,7 @@
     "Website": "https://www.aki-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 29 73 51",
-    "E-Mail": "aki-muenster@versanet.de",
+    "mail": "aki-muenster@versanet.de",
     "Schlagworte": "Beratung und Betreuung bei sozialen Problemen, Begleitung bei Behördengängen, Deutschkurse, Nachhilfe und Hausaufgabenbetreuung, alle Schulformen, alle Fächer und Klassen, Computerkurse, für Migrantinnen und Migranten, nach Vereinbarung, Internationales Frauenfrühstück"
   },
   {
@@ -476,7 +476,7 @@
     "Website": "https://www.aki-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 29 73 51",
-    "E-Mail": "aki-muenster@versanet.de",
+    "mail": "aki-muenster@versanet.de",
     "Schlagworte": "Beratung und Betreuung bei sozialen Problemen, Begleitung bei Behördengängen, Deutschkurse, Nachhilfe und Hausaufgabenbetreuung, alle Schulformen, alle Fächer und Klassen, Computerkurse, für Migrantinnen und Migranten, nach Vereinbarung, Internationales Frauenfrühstück"
   },
   {
@@ -491,7 +491,7 @@
     "Website": "https://www.an-ge-kommen.de/neu-angekommen/angekommen-in-muenster/",
     "__1": "",
     "Telefon": "02 51 / 4 92-28 14",
-    "E-Mail": "Rakowski@stadt-muenster.de, vanbebber@stadt-muenster.de",
+    "mail": "Rakowski@stadt-muenster.de, vanbebber@stadt-muenster.de",
     "Schlagworte": "Gezielte Förderung junger Flüchtlinge, Betreuungsangebot, Kooperationsprojekt der Walter Blüchert Stiftung, der Stadt Münster und des Ministeriums für Schule und Bildung"
   },
   {
@@ -506,7 +506,7 @@
     "Website": "https://www.awo-msl-re.de/index.php?menuid=2999&reporeid=1163&getlang=de",
     "__1": "",
     "Telefon": "01 76 / 19 00 33 65",
-    "E-Mail": "a.priesemann@awo-msl-re.de",
+    "mail": "a.priesemann@awo-msl-re.de",
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
   },
   {
@@ -521,7 +521,7 @@
     "Website": "https://www.awo-msl-re.de/index.php?menuid=2999&reporeid=1163&getlang=de",
     "__1": "",
     "Telefon": "02 51 / 21 61 20",
-    "E-Mail": "i.rosin@awo-msl-re.de",
+    "mail": "i.rosin@awo-msl-re.de",
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
   },
   {
@@ -536,7 +536,7 @@
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/migrationsdienst",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-768",
-    "E-Mail": "migrationsdienst@caritas-ms.de",
+    "mail": "migrationsdienst@caritas-ms.de",
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
@@ -551,7 +551,7 @@
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
     "__1": "",
     "Telefon": "02 51 / 26335-0",
-    "E-Mail": "beratungsstelle.kinderhaus@caritas-ms.de",
+    "mail": "beratungsstelle.kinderhaus@caritas-ms.de",
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer/-innen"
   },
   {
@@ -566,7 +566,7 @@
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
     "__1": "",
     "Telefon": "02 51 / 8 71 04-0",
-    "E-Mail": "beratungsstelle.gievenbeck@caritas-ms.de",
+    "mail": "beratungsstelle.gievenbeck@caritas-ms.de",
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer/-innen"
   },
   {
@@ -581,7 +581,7 @@
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-430",
-    "E-Mail": "migrationsdienst@caritas-ms.de",
+    "mail": "migrationsdienst@caritas-ms.de",
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
@@ -596,7 +596,7 @@
     "Website": "https://www.diakonie-muenster.de/web/beratungs-und-bildungscentrum/main/themenfelder/migration.html",
     "__1": "",
     "Telefon": "02 51 / 49 01 5-0",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Begleitung junger Menschen im Alter von 12-27 Jahren in Münster und Warendorf und Erwachsene"
   },
   {
@@ -611,7 +611,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/flucht/ausreiseberatung.php",
     "__1": "",
     "Telefon": "01 60 / 26 06 580",
-    "E-Mail": "mark.gebauer@drk-muenster.de",
+    "mail": "mark.gebauer@drk-muenster.de",
     "Schlagworte": "Ausreise- und Perspektivberatung des DRK Münster für Geflüchtete, die aus unterschiedlichen Gründen freiwillig und selbstständig in ihr Heimatland zurückkehren wollen"
   },
   {
@@ -626,7 +626,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/migrationsberatung.php",
     "__1": "",
     "Telefon": "01 51 / 23 12 92 54",
-    "E-Mail": "sebastian.schmitz@drk-muenster.de",
+    "mail": "sebastian.schmitz@drk-muenster.de",
     "Schlagworte": "Beratung und Unterstützung bei: Teilnahme am Integrationskurs, \nSuche nach geeigneter Kinderbetreuung während der Teilnahme an einem Integrationskurs, Anerkennung ausländischer Berufs-und Bildungsabschlüsse, Möglichkeiten der Berufsausbildung, Weiterbildung und Umschulung, Klärung rechtlicher Fragen zum Aufenthalt, Einbürgerung, Familienzusammenführung, Erstellung von Bewerbungsunterlagen, Zugang zu Transferleistungen/Anspruch auf Leistungen zur Sicherung des Lebensunterhalts (Arbeitslosengeld I, Arbeitslosengeld II), Fragen zu Schule, Ausbildung, Erziehung, Gesundheitsversorgung"
   },
   {
@@ -641,7 +641,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/joblotsen/",
     "__1": "",
     "Telefon": "02 51 / 37 88 78",
-    "E-Mail": "kathrin.hess@drk-muenster.de",
+    "mail": "kathrin.hess@drk-muenster.de",
     "Schlagworte": "Beratung und Unterstützung bei folgenden Themen: Fragen rund um die Jobsuche\nStellenanzeigen finden und lesen\nLebenslauf und Bewerbung\nOnline-Bewerbung erstellen\nInitiativbewerbung vorbereiten\nRechtschreibung und Grammatik\nVorbereitung von Vorstellungsgesprächen\nInfos und Ideen zur alternativen Form der Jobsuche\nInfos zu Bildungs- und Beratungsangeboten"
   },
   {
@@ -656,7 +656,7 @@
     "Website": "https://www.drk-muenster.de/angebot/migration/zuhause-finden/wohnlotsen/",
     "__1": "",
     "Telefon": "02 51 / 37 88 84",
-    "E-Mail": "stefanie.tegeler@drk-muenster.de",
+    "mail": "stefanie.tegeler@drk-muenster.de",
     "Schlagworte": "Beratung und Unterstützung bei: Kontakt mit Ämtern und Vermieter*innen\nVerträge (Miet-Vertrag, Strom-Vertrag, etc.)\nAnträge, z.B. für Möbel\nMülltrennung\nEnergie sparen\nHeizen und Lüften\nReinigung der Wohnung\nNutzung von Haushaltsgeräten\nKontakt in die Nachbarschaft"
   },
   {
@@ -671,7 +671,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/kontakt/geschaeftsstelle-oxford-kaserne.html",
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Jobcenter – Fachstelle Geflüchtete"
   },
   {
@@ -686,7 +686,7 @@
     "Website": "https://www.lebenshilfe-muenster.de/de/",
     "__1": "",
     "Telefon": "02 51 / 53 90 6-0",
-    "E-Mail": "info@lebenshilfe-muenster.de",
+    "mail": "info@lebenshilfe-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -701,7 +701,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
-    "E-Mail": "heymann@ggua.de",
+    "mail": "heymann@ggua.de",
     "Schlagworte": "Krankenversicherung"
   },
   {
@@ -716,7 +716,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-764",
-    "E-Mail": "Stefanie.meyer@caritas-ms.de",
+    "mail": "Stefanie.meyer@caritas-ms.de",
     "Schlagworte": "Krankenversicherung"
   },
   {
@@ -731,7 +731,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
-    "E-Mail": "heymann@ggua.de",
+    "mail": "heymann@ggua.de",
     "Schlagworte": "Krankenversicherung"
   },
   {
@@ -746,7 +746,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-0",
-    "E-Mail": "attermeyer@ggua.de",
+    "mail": "attermeyer@ggua.de",
     "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
   },
   {
@@ -761,7 +761,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-0",
-    "E-Mail": "attermeyer@ggua.de",
+    "mail": "attermeyer@ggua.de",
     "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
   },
   {
@@ -776,7 +776,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-0",
-    "E-Mail": "attermeyer@ggua.de",
+    "mail": "attermeyer@ggua.de",
     "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
   },
   {
@@ -791,7 +791,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/internationales-frauenquasselcafe/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-12",
-    "E-Mail": "steinhaus@ggua.de",
+    "mail": "steinhaus@ggua.de",
     "Schlagworte": ""
   },
   {
@@ -806,7 +806,7 @@
     "Website": "https://www.ukm.de/index.php?id=psych_flchtlingskinder",
     "__1": "",
     "Telefon": "02 51 / 83-56 673",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": "Kinder, Beratung, Geflüchtete, Trauma"
   },
   {
@@ -821,7 +821,7 @@
     "Website": "https://www.muenster-nord.de/sprakel/nimas-e-v-verein-zur-ausbildungsfoerderung/",
     "__1": "",
     "Telefon": "02 51 / 70 37 65 45",
-    "E-Mail": "info@nimas.org",
+    "mail": "info@nimas.org",
     "Schlagworte": "Kinder, Jugendliche, Ausbildung, Arbeit, Schule"
   },
   {
@@ -836,7 +836,7 @@
     "Website": "https://www.mieterschutzverein-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 51 17 59",
-    "E-Mail": "info@msv-muenster.de",
+    "mail": "info@msv-muenster.de",
     "Schlagworte": "Wohnen, Wohnung, Mieterschutz"
   },
   {
@@ -851,7 +851,7 @@
     "Website": "https://www.wohn-in.de/",
     "__1": "",
     "Telefon": "02 51 / 52 30 21",
-    "E-Mail": "wohn-in@wohn-in.de",
+    "mail": "wohn-in@wohn-in.de",
     "Schlagworte": "Wohnen, Wohnung, Mieterschutz"
   },
   {
@@ -866,7 +866,7 @@
     "Website": "https://www.muenster.org/zart-bitter",
     "__1": "",
     "Telefon": "02 51 / 41 40 555",
-    "E-Mail": "info@zartbitter-muenster.de",
+    "mail": "info@zartbitter-muenster.de",
     "Schlagworte": "Beratung  zu und Prävention von sexualisierter Gewalt"
   },
   {
@@ -881,7 +881,7 @@
     "Website": "https://www.muenster.org/zart-bitter",
     "__1": "",
     "Telefon": "02 51 / 41 40 555",
-    "E-Mail": "info@zartbitter-muenster.de",
+    "mail": "info@zartbitter-muenster.de",
     "Schlagworte": "Beratung  zu und Prävention von sexualisierter Gewalt"
   },
   {
@@ -896,7 +896,7 @@
     "Website": "https://www.frauennotruf-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 3 44 43",
-    "E-Mail": "info@frauennotruf-muenster.de",
+    "mail": "info@frauennotruf-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -911,7 +911,7 @@
     "Website": "https://www.stadt-muenster.de/gesundheit/startseite.html",
     "__1": "",
     "Telefon": "02 51 / 4 92-53 77",
-    "E-Mail": "gesundheitsamt@stadt-muenster.de",
+    "mail": "gesundheitsamt@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -926,7 +926,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
-    "E-Mail": "jobcenter@stadt-muenster.de",
+    "mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -941,7 +941,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
-    "E-Mail": "jobcenter@stadt-muenster.de",
+    "mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -956,7 +956,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
-    "E-Mail": "jobcenter@stadt-muenster.de",
+    "mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -971,7 +971,7 @@
     "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
-    "E-Mail": "jobcenter@stadt-muenster.de",
+    "mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -986,7 +986,7 @@
     "Website": "http://test.mobim.info/",
     "__1": "",
     "Telefon": "02 51 / 4 92 71 09",
-    "E-Mail": "kontakt@mobim.info",
+    "mail": "kontakt@mobim.info",
     "Schlagworte": ""
   },
   {
@@ -1001,7 +1001,7 @@
     "Website": "https://www.uni-muenster.de/DieBruecke/",
     "__1": "",
     "Telefon": "02 51 / 83 22 229",
-    "E-Mail": "diebruecke@wwu.de",
+    "mail": "diebruecke@wwu.de",
     "Schlagworte": ""
   },
   {
@@ -1016,7 +1016,7 @@
     "Website": "http://www.sozialbuero.net/index.php?id=167",
     "__1": "",
     "Telefon": "0251 / 58 85 6",
-    "E-Mail": "sic@muenster.de",
+    "mail": "sic@muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1031,7 +1031,7 @@
     "Website": "http://www.sozialbuero.net/index.php?id=167",
     "__1": "",
     "Telefon": "0251 / 58 85 6",
-    "E-Mail": "sic@muenster.de",
+    "mail": "sic@muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "Website": "http://www.sozialbuero.net/index.php?id=167",
     "__1": "",
     "Telefon": "0251 / 58 85 6",
-    "E-Mail": "sic@muenster.de",
+    "mail": "sic@muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1061,7 +1061,7 @@
     "Website": "https://www.clemenshospital.de/",
     "__1": "",
     "Telefon": "02 51 / 97 6-0",
-    "E-Mail": "info.clemenshospital@alexianer.de",
+    "mail": "info.clemenshospital@alexianer.de",
     "Schlagworte": ""
   },
   {
@@ -1076,7 +1076,7 @@
     "Website": "http://www.evk-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 27 06-0",
-    "E-Mail": "info.muenster@valeo-kliniken.de",
+    "mail": "info.muenster@valeo-kliniken.de",
     "Schlagworte": ""
   },
   {
@@ -1091,7 +1091,7 @@
     "Website": "https://www.hjk-muenster.de/startseite.html",
     "__1": "",
     "Telefon": "0 25 01 / 17-0",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1106,7 +1106,7 @@
     "Website": "https://www.raphaelsklinik.de/",
     "__1": "",
     "Telefon": "02 51 / 50 07-0",
-    "E-Mail": "Info.raphaelsklinik@alexianer.de",
+    "mail": "Info.raphaelsklinik@alexianer.de",
     "Schlagworte": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "Website": "https://www.sfh-muenster.de/startseite/",
     "__1": "",
     "Telefon": "02 51 / 93 5-0",
-    "E-Mail": "info@sfh-muenster.de",
+    "mail": "info@sfh-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1136,7 +1136,7 @@
     "Website": "https://reiseauskunft.bahn.de/bin/ff/query.exe/dn?ld=40162&country=DEU&protocol=https:&seqnr=1&ident=0m.029902162.1559642490&rt=1&performGis=1&dbAgencyExtId=999503839&dbAgencyPoolUIC=105&dbAgencyViewMode=detail&SetGlobalOptionGO_callMapFromPosition=tpOvAreaMapStart&REQMapCenterCoordType=GEO&REQMapCenterX=7634440&REQMapCenterY=51956320&REQMapScaling=1000&REQMapTextFieldFrom=1&",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1151,7 +1151,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/mobile/service-zentrum-mobile.html",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1166,7 +1166,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/cityshop/uebersicht.html?o=1%253futm",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1181,7 +1181,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/service-center-hafenplatz/service-center-hafenplatz.html?o=1%253futm",
     "__1": "",
     "Telefon": "02 51 / 6 94 12 34",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/mobile/service-zentrum-mobile.html",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1211,7 +1211,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/cityshop/uebersicht.html?o=1%253futm",
     "__1": "",
     "Telefon": "",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1226,7 +1226,7 @@
     "Website": "https://www.stadtwerke-muenster.de/privatkunden/service-kontakt/kundenservice-vor-ort/service-center-hafenplatz/service-center-hafenplatz.html?o=1%253futm",
     "__1": "",
     "Telefon": "02 51 / 6 94 12 34",
-    "E-Mail": "",
+    "mail": "",
     "Schlagworte": ""
   },
   {
@@ -1241,7 +1241,7 @@
     "Website": "https://www.german-language-academy.com/?us_page_block=default-titlebar",
     "__1": "",
     "Telefon": "02 51 / 27 07 68 0",
-    "E-Mail": "info@german-language-academy.com",
+    "mail": "info@german-language-academy.com",
     "Schlagworte": ""
   },
   {
@@ -1256,7 +1256,7 @@
     "Website": "https://www.wipdaf-deutschkurse-muenster.de/kursangebot/integrationskurse/",
     "__1": "",
     "Telefon": "02 51 / 98 16 22 88",
-    "E-Mail": "integrationskurse@wipdaf.de",
+    "mail": "integrationskurse@wipdaf.de",
     "Schlagworte": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "Website": "https://deutschwerkstatt.de/",
     "__1": "",
     "Telefon": "02 51 / 98 11 97-20",
-    "E-Mail": "info@deutschwerkstatt.de",
+    "mail": "info@deutschwerkstatt.de",
     "Schlagworte": ""
   },
   {
@@ -1286,7 +1286,7 @@
     "Website": "http://www.bgz-kinderhaus.de/angebote/sprachkurse/",
     "__1": "",
     "Telefon": "02 51 / 21 69 58",
-    "E-Mail": "stadtteilarbeit@bgz-kinderhaus.de",
+    "mail": "stadtteilarbeit@bgz-kinderhaus.de",
     "Schlagworte": ""
   },
   {
@@ -1301,7 +1301,7 @@
     "Website": "http://www.muenster.org/altepost-bergfidel/termine/regelmaessige-termine/9-nicht-kategorisiert/82-bildungsangebote",
     "__1": "",
     "Telefon": "02 51 / 7 63 68 08",
-    "E-Mail": "altepost@muenster.org",
+    "mail": "altepost@muenster.org",
     "Schlagworte": ""
   },
   {
@@ -1316,7 +1316,7 @@
     "Website": "http://www.geba-muenster.de/muenster",
     "__1": "",
     "Telefon": "02 51 / 9 81 12 80",
-    "E-Mail": "kontakt@geba-muenster.de",
+    "mail": "kontakt@geba-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1331,7 +1331,7 @@
     "Website": "https://www.haus-der-familie-muenster.de",
     "__1": "",
     "Telefon": "02 51 / 4 18 66-0",
-    "E-Mail": "fbs-muenster@bistum-muenster.de",
+    "mail": "fbs-muenster@bistum-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "Website": "https://vhs.muenster.de/programm/fachbereiche-sprachen-und-laender-deutsch-als-fremdsprache",
     "__1": "",
     "Telefon": "02 51/4 92-43 21",
-    "E-Mail": "vhs@stadt-muenster.de",
+    "mail": "vhs@stadt-muenster.de",
     "Schlagworte": ""
   },
   {
@@ -1361,7 +1361,7 @@
     "Website": "https://www.anna-krueckmann-haus.de/",
     "__1": "",
     "Telefon": "02 51 / 39 29 08-0",
-    "E-Mail": "info@anna-krueckmann-haus.de",
+    "mail": "info@anna-krueckmann-haus.de",
     "Schlagworte": ""
   }
 ]
