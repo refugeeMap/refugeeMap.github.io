@@ -29,7 +29,7 @@ let createGeojsonFeaturen = (entry) => {
             "schlagwoerter": schlagwortArray,
             "popupContent": '<p><b>Institution: </b>' + entry.Name + '<br><b>Addresse: </b>' + entry.Adress +'<br>' +
                 '<b>Telefon: </b><a href="tel:'+entry.Telefon+'">' + entry.Telefon +'</a>'+'<br>' +
-                '<b>E-Mail: </b><a href="mailto:'+entry.mail+'">' + entry.mail +'</a>'+'<br>' +
+                '<b>E-Mail: </b><a href="mailto:'+entry.Mail+'">' + entry.Mail +'</a>'+'<br>' +
                 '    <ul id="schlagwortKarte"></ul>'+
                 '<a href='+entry.Website +'>mehr Informationen</a>'+'<br>' +
                 '<a href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress)+'>in GoogleMaps öffnen</a>'
