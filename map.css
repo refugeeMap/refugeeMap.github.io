@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100vw;
+}
+
+@media screen and (min-width: 800px) {
+    html, body, #map {
+        height: 45vw;
+        width: 100vw;
+    }
+}
+
