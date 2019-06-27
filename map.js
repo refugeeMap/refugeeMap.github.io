@@ -6,7 +6,7 @@ let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: 'Map data &copy; OpenStreetMap contributors'
 }).addTo(map);
 let basemap = {"OpenStreetMap": osm};
-map.setView([51.961302, 7.629351], 14);
+map.setView([51.957807, 7.628878], 15);
 
 
 
