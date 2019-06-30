@@ -31,8 +31,8 @@ let createGeojsonFeaturen = (entry) => {
                 '<b>Telefon: </b><a href="tel:'+entry.Telefon+'">' + entry.Telefon +'</a>'+'<br>' +
                 '<b>E-Mail: </b><a href="mailto:'+entry.Mail+'">' + entry.Mail +'</a>'+'<br>' +
                 '    <ul id="schlagwortKarte"></ul>'+
-                '<a href='+entry.Website +'>mehr Informationen</a>'+'<br>' +
-                '<a href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress)+'>in GoogleMaps öffnen</a>'
+                '<a target="_blank" href='+entry.Website +'>mehr Informationen</a>'+'<br>' +
+                '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress)+'>in GoogleMaps öffnen</a>'
 
 
         },
