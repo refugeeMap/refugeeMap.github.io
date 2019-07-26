@@ -18,16 +18,18 @@ var satelit = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/
     attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 });
 
-let basemap = {"Straßen": CartoDB_Voyager,
-"Satellit": satelit};
+let basemap = {
+    "Straßen": CartoDB_Voyager,
+    "Satellit": satelit
+};
 
 let createGeojsonFeaturen = (entry) => {
     let featureAttributes = JSON.stringify(entry);
     let schlagwortArray = entry.Schlagworte.split(",");
-    let schlagwortListe =[];
-    schlagwortArray.forEach(schlagwort =>{
-        if(schlagwort!= ","){
-            schlagwortListe.push('<li>'+schlagwort+'</li>')
+    let schlagwortListe = [];
+    schlagwortArray.forEach(schlagwort => {
+        if (schlagwort != ",") {
+            schlagwortListe.push('<li>' + schlagwort + '</li>')
         }
     });
     let geojsonFeature = {
@@ -35,20 +37,25 @@ let createGeojsonFeaturen = (entry) => {
         "properties": {
             "entry": entry,
             "schlagwoerter": schlagwortArray,
-            "popupContent": '<p><b>' + entry.Name + '</b><br><br><b>Adresse: </b>' + entry.Adress +'<br>' +
-                '<b>Telefon: </b><a href="tel:'+entry.Telefon+'">' + entry.Telefon +'</a>'+'<br>' +
-                '<b>E-Mail: </b><a href="mailto:'+entry.Mail+'">' + entry.Mail +'</a>'+'<br>' +
-                '<ul id="schlagwortKarte"></ul>'+
-                '<a target="_blank" href='+entry.Website +'>mehr Informationen</a>'+'<br>' +
-                '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress)+'>in GoogleMaps öffnen</a>'
-
-
+            "popupContent": '<p><b>' + entry.Name + '</b><br><br>' + entry.Adress + '<br>'
         },
         "geometry": {
             "type": "Point",
             "coordinates": [parseFloat(entry.X), parseFloat(entry.Y)]
         }
     };
+    if (entry.Telefon) {
+        geojsonFeature.properties.popupContent += '<b>Telefon: </b><a href="tel:' + entry.Telefon + '">' + entry.Telefon + '</a>' + '<br>'
+    }
+    if (entry.Mail) {
+        geojsonFeature.properties.popupContent += '<b>E-Mail: </b><a href="mailto:' + entry.Mail + '">' + entry.Mail + '</a>' + '<br>'
+    }
+
+    geojsonFeature.properties.popupContent += '<ul id="schlagwortKarte"></ul>' +
+        '<a target="_blank" href=' + entry.Website + '>mehr Informationen</a>' + '<br>' +
+        '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress) + '>in GoogleMaps öffnen</a>';
+
+
     return geojsonFeature;
 };
 
@@ -213,7 +220,7 @@ let addLayers =  () => {
         let zentralesAngebot = [];
 
         data.forEach(entry => {
-            if(entry[""] == "Zentrales Angebot"){
+            if (entry[""] == "Zentrales Angebot") {
                 zentralesAngebot.push(entry);
             }
             switch (entry.Thema){
@@ -291,7 +298,6 @@ let addLayers =  () => {
         krankenhauser.forEach(entry =>{
             krankenhauserLayer.addData(createGeojsonFeaturen(entry));
         });
-
 
 
         let overlaymaps = {
