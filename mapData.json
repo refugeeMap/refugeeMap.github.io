@@ -240,6 +240,21 @@
     "Schlagworte": "Ferienkurse, Schule, Volkshochschule, Schulpsychologische Beratungsstelle"
   },
   {
+    "Name": "Amt für Schule und Weiterbildung",
+    "Adress": "Friedrich-Ebert-Straße 110, 48153 Münster",
+    "X": 7.630523,
+    "Y": 51.94684,
+    "Kategorie": "Behoerde",
+    "": "",
+    "Thema": "Kinder",
+    "Beschreibung": "Ansprechpartner und Ansprechpartnerinnen zu Fragen rund um Schule und Weiterbildung",
+    "Website": "https://www.stadt-muenster.de/schulamt/startseite.html",
+    "__1": "",
+    "Telefon": "02 51/4 92-40 01",
+    "Mail": "bildung@stadt-muenster.de",
+    "Schlagworte": "Ferienkurse, Schule, Volkshochschule, Schulpsychologische Beratungsstelle"
+  },
+  {
     "Name": "Kinderbüro",
     "Adress": "Junkerstraße 1, 48153 Münster",
     "X": 7.630101,

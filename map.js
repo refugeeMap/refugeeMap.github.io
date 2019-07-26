@@ -104,7 +104,7 @@ let freizeitLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
     return layer.feature.properties.popupContent;
 });
 
-/*let kinderIcon = new L.Icon({
+let kinderIcon = new L.Icon({
     iconSize: [40, 40],
     iconAnchor: [13, 27],
     popupAnchor: [1, -24],
@@ -114,7 +114,7 @@ let kinderLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:kinderIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});*/
+}).addTo(map);
 
 let gesundheitIcon = new L.Icon({
     iconSize: [40, 40],
@@ -197,7 +197,7 @@ let addLayers =  () => {
         let beratung = [];
         let deutschkurse = [];
         let freizeit = [];
-        //let kinder = [];
+        let kinder = [];
         let gesundheit = [];
         let frauen = [];
         let engagement = [];
@@ -224,9 +224,9 @@ let addLayers =  () => {
                 case "Beratung":
                     beratung.push(entry);
                     break;
-                /*case "Kinder":
+                case "Kinder":
                     kinder.push(entry);
-                    break;*/
+                    break;
                 case "Gesundheit":
                     gesundheit.push(entry);
                     break;
@@ -265,9 +265,9 @@ let addLayers =  () => {
         beratung.forEach(entry =>{
             beratungLayer.addData(createGeojsonFeaturen(entry));
         });
-        /*kinder.forEach(entry =>{
+        kinder.forEach(entry =>{
             kinderLayer.addData(createGeojsonFeaturen(entry));
-        });*/
+        });
         gesundheit.forEach(entry =>{
             gesundheitLayer.addData(createGeojsonFeaturen(entry));
         });
@@ -295,7 +295,7 @@ let addLayers =  () => {
             "Freizeit": freizeitLayer,
             "Deutschkurse":deutschkurseLayer,
             "Frauen": frauenLayer,
-            //"Kinder": kinderLayer,
+            "Kinder": kinderLayer,
             "Engagement": engagementLayer,
             "Gesundheit": gesundheitLayer,
             "Krankenhaus": krankenhauserLayer
