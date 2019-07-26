@@ -4,11 +4,21 @@ let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     label: 'Street Map',
     maxZoom: 20,
     attribution: 'Map data &copy; OpenStreetMap contributors'
+});
+map.setView([51.957807, 7.628878], 13);
+
+let CartoDB_Voyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
 }).addTo(map);
 
+var satelit = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+});
 
-
-let treffpunktMarker = '';
+let basemap = {"Straßen": CartoDB_Voyager,
+"Satellit": satelit};
 
 let createGeojsonFeaturen = (entry) => {
     let featureAttributes = JSON.stringify(entry);
@@ -27,7 +37,7 @@ let createGeojsonFeaturen = (entry) => {
             "popupContent": '<p><b>' + entry.Name + '</b><br><br><b>Adresse: </b>' + entry.Adress +'<br>' +
                 '<b>Telefon: </b><a href="tel:'+entry.Telefon+'">' + entry.Telefon +'</a>'+'<br>' +
                 '<b>E-Mail: </b><a href="mailto:'+entry.Mail+'">' + entry.Mail +'</a>'+'<br>' +
-                '    <ul id="schlagwortKarte"></ul>'+
+                '<ul id="schlagwortKarte"></ul>'+
                 '<a target="_blank" href='+entry.Website +'>mehr Informationen</a>'+'<br>' +
                 '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress)+'>in GoogleMaps öffnen</a>'
 
@@ -298,7 +308,7 @@ let addLayers =  () => {
             "Krankenhaus": krankenhauserLayer
         };
 
-        L.control.layers(basemap, overlaymaps).addTo(map);
+        layerControl = L.control.layers(basemap, overlaymaps).addTo(map);
     });
 };
 
