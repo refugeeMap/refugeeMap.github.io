@@ -2,12 +2,9 @@ let map = L.map('map');
 map.addControl(new L.Control.Fullscreen());
 let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     label: 'Street Map',
-    maxZoom: 18,
+    maxZoom: 20,
     attribution: 'Map data &copy; OpenStreetMap contributors'
 }).addTo(map);
-let basemap = {"OpenStreetMap": osm};
-map.setView([51.957807, 7.628878], 15);
-
 
 
 
@@ -54,7 +51,7 @@ let arbeitLayer = L.geoJSON("", {pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:arbeitIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let wohnenIcon = new L.Icon({
     iconSize: [40, 40],
@@ -66,7 +63,7 @@ let wohnenLayer = L.geoJSON("", {pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:wohnenIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let treffpunkIcon = new L.Icon({
     iconSize: [40, 40],
@@ -78,7 +75,7 @@ let treffpunkLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:treffpunkIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let beratungIcon = new L.Icon({
     iconSize: [40, 40],
@@ -90,7 +87,7 @@ let beratungLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:beratungIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let freizeitIcon = new L.Icon({
     iconSize: [40, 40],
@@ -102,7 +99,7 @@ let freizeitLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:freizeitIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let kinderIcon = new L.Icon({
     iconSize: [40, 40],
@@ -126,7 +123,7 @@ let gesundheitLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:gesundheitIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let frauenIcon = new L.Icon({
     iconSize: [40, 40],
@@ -138,7 +135,7 @@ let frauenLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:frauenIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let engagementIcon = new L.Icon({
     iconSize: [40, 40],
@@ -150,7 +147,7 @@ let engagementLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:engagementIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let deutschkurseIcon = new L.Icon({
     iconSize: [40, 40],
@@ -162,7 +159,7 @@ let deutschkurseLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {icon:deutschkurseIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let krankenhauserIcon = new L.Icon({
     iconSize: [40, 40],
@@ -174,7 +171,7 @@ let krankenhauserLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) 
         return L.marker(latlng, {icon:krankenhauserIcon});
     }}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
-});
+}).addTo(map);
 
 let angebotIcon = new L.Icon({
     iconSize: [40, 40],
