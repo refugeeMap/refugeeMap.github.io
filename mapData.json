@@ -1,7 +1,7 @@
 [
   {
     "Name": "Jobcenter Münster",
-    "Adress": "Stadthaus 2 Ludgeripl. 4 48151 Münster Deutschland",
+    "Adress": "Ludgeripl. 4 48151 Münster Deutschland",
     "X": 7.626846,
     "Y": 51.955038,
     "Kategorie": "Behoerde",
@@ -12,7 +12,7 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": "Arbeit finden"
+    "Schlagworte": "Stadthaus 2, Arbeit finden"
   },
   {
     "Name": "Mamba",
@@ -31,7 +31,7 @@
   },
   {
     "Name": "Kommunales Integrationszentrum",
-    "Adress": "Stadthaus 1, Klemensstraße 10, 48143 Münster",
+    "Adress": "Klemensstraße 10, 48143 Münster",
     "X": 7.629351,
     "Y": 51.961302,
     "Kategorie": "Behoerde",
@@ -42,7 +42,7 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-70 81",
     "Mail": "ki-muenster@stadt-muenster.de",
-    "Schlagworte": "Im Raum 467"
+    "Schlagworte": "Stadthaus 1, Im Raum 467"
   },
   {
     "Name": "Sozialamt",
@@ -406,7 +406,7 @@
   },
   {
     "Name": "Willkommen in Mecklenbeck",
-    "Adress": "Bürgerverein für Mecklenbeck e.V., Arbeitsgruppe  „Willkommen in Mecklenbeck“, Bürgerzentrum Mecklenbeck/ Hof Hesselmann, Am Hof Hesselmann 10, 48163 Münster",
+    "Adress": "Am Hof Hesselmann 10, 48163 Münster",
     "X": 7.57796,
     "Y": 51.931332,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -417,11 +417,11 @@
     "__1": "",
     "Telefon": "02 51 / 7 16 40 (Anrufbeantworter)",
     "Mail": "organisation@willkommen-in-mecklenbeck.de",
-    "Schlagworte": ""
+    "Schlagworte": "Bürgerverein für Mecklenbeck e.V., Arbeitsgruppe  „Willkommen in Mecklenbeck“, Bürgerzentrum Mecklenbeck/ Hof Hesselmann"
   },
   {
     "Name": "Obulus – Kinderhauser Sozialladen",
-    "Adress": "Diesterwegstraße 4, 48159 Münster (Anfahrt/Zugang vom Parkplatz Pestalozzistraße)",
+    "Adress": "Diesterwegstraße 4, 48159 Münster",
     "X": 7.59964,
     "Y": 52.000802,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -430,9 +430,9 @@
     "Beschreibung": "Günstige gespendete Haushaltswaren",
     "Website": "http://www.st-marien-und-st-josef.de/caritative-angebote/obolus-kinderhauser-sozialladen/",
     "__1": "",
-    "Telefon": "02 51 / 62 56 19 26 (Anrufbeantworter)",
+    "Telefon": "02 51 / 62 56 19 26",
     "Mail": "",
-    "Schlagworte": "Günstige gespendete Haushaltswaren und Möbel für Bedürftige"
+    "Schlagworte": "Anfahrt/Zugang vom Parkplatz Pestalozzistraße, Günstige gespendete Haushaltswaren und Möbel für Bedürftige"
   },
   {
     "Name": "DRK Joblotsen",
@@ -496,7 +496,7 @@
   },
   {
     "Name": "Angekommen in deiner Stadt Münster",
-    "Adress": "Jugendausbildungszentrum (JAZ) Kinderhauserstraße 112, 48149 Münster",
+    "Adress": "Kinderhauserstraße 112, 48149 Münster",
     "X": 7.61377,
     "Y": 51.98162,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -507,11 +507,11 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-28 14",
     "Mail": "Rakowski@stadt-muenster.de, vanbebber@stadt-muenster.de",
-    "Schlagworte": "Gezielte Förderung junger Flüchtlinge, Betreuungsangebot, Kooperationsprojekt der Walter Blüchert Stiftung, der Stadt Münster und des Ministeriums für Schule und Bildung"
+    "Schlagworte": "Jugendausbildungszentrum (JAZ), Gezielte Förderung junger Flüchtlinge, Betreuungsangebot, Kooperationsprojekt der Walter Blüchert Stiftung, der Stadt Münster und des Ministeriums für Schule und Bildung"
   },
   {
     "Name": "AWO - Regionale Flüchtlingsberatung",
-    "Adress": "Stadtteilbüro Coerde, Nerzweg 9, 48157 Münster",
+    "Adress": "Nerzweg 9, 48157 Münster",
     "X": 7.638117,
     "Y": 51.997626,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -522,11 +522,11 @@
     "__1": "",
     "Telefon": "01 76 / 19 00 33 65",
     "Mail": "a.priesemann@awo-msl-re.de",
-    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
+    "Schlagworte": "Stadtteilbüro Coerde, Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
   },
   {
     "Name": "AWO - Regionale Flüchtlingsberatung",
-    "Adress": "Begegnungszentrum Kinderhaus, Sprickmannplatz 3, 48159 Münster",
+    "Adress": "Sprickmannplatz 3, 48159 Münster",
     "X": 7.594992,
     "Y": 51.998923,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -537,7 +537,7 @@
     "__1": "",
     "Telefon": "02 51 / 21 61 20",
     "Mail": "i.rosin@awo-msl-re.de",
-    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
+    "Schlagworte": "Begegnungszentrum Kinderhaus, Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
   },
   {
     "Name": "Caritas Flüchtlingsberatung",
@@ -646,7 +646,7 @@
   },
   {
     "Name": "DRK-Joblotsen",
-    "Adress": "Stadtbücherei, Alter Steinweg 11, 48143 Münster",
+    "Adress": "Alter Steinweg 11, 48143 Münster",
     "X": 7.630692,
     "Y": 51.963023,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -657,7 +657,7 @@
     "__1": "",
     "Telefon": "02 51 / 37 88 78",
     "Mail": "kathrin.hess@drk-muenster.de",
-    "Schlagworte": "(im Deutsch-Lern-Raum in der 1. Etage), Beratung und Unterstützung bei folgenden Themen: Fragen rund um die Jobsuche\nStellenanzeigen finden und lesen\nLebenslauf und Bewerbung\nOnline-Bewerbung erstellen\nInitiativbewerbung vorbereiten\nRechtschreibung und Grammatik\nVorbereitung von Vorstellungsgesprächen\nInfos und Ideen zur alternativen Form der Jobsuche\nInfos zu Bildungs- und Beratungsangeboten"
+    "Schlagworte": "Stadtbücherei, im Deutsch-Lern-Raum in der 1. Etage, Beratung und Unterstützung bei folgenden Themen: Fragen rund um die Jobsuche\nStellenanzeigen finden und lesen\nLebenslauf und Bewerbung\nOnline-Bewerbung erstellen\nInitiativbewerbung vorbereiten\nRechtschreibung und Grammatik\nVorbereitung von Vorstellungsgesprächen\nInfos und Ideen zur alternativen Form der Jobsuche\nInfos zu Bildungs- und Beratungsangeboten"
   },
   {
     "Name": "DRK-Wohnlotsen",
@@ -676,7 +676,7 @@
   },
   {
     "Name": "Integration Point der Agentur für Arbeit",
-    "Adress": "Oxford-Kaserne, Roxelerstraße 340 (Gebäude 7), 48161 Münster",
+    "Adress": "Roxelerstraße 340, 48161 Münster",
     "X": 7.57671,
     "Y": 51.96106,
     "Kategorie": "Behoerde",
@@ -687,7 +687,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "",
-    "Schlagworte": "Jobcenter – Fachstelle Geflüchtete"
+    "Schlagworte": "Oxford-Kaserne, Gebäude 7, Jobcenter – Fachstelle Geflüchtete"
   },
   {
     "Name": "Lebenshilfe - WeitWinkel Beratungsnetzwerk Migration & Behinderung",
@@ -736,7 +736,7 @@
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
-    "Adress": "Malteser Medizin für Menschen ohne Krankenversicherung, Malteserzentrum, Daimlerweg 33, 48163 Münster",
+    "Adress": "Daimlerweg 33, 48163 Münster",
     "X": 7.59538,
     "Y": 51.92734,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -747,7 +747,7 @@
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
     "Mail": "heymann@ggua.de",
-    "Schlagworte": "Krankenversicherung"
+    "Schlagworte": "Malteser Medizin für Menschen ohne Krankenversicherung, Malteserzentrum, Krankenversicherung"
   },
   {
     "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
@@ -1276,7 +1276,7 @@
   },
   {
     "Name": "IBB Institut für Berufliche Bildung AG",
-    "Adress": "Servatiiplatz 9 (3. Etage), 48143 Münster",
+    "Adress": "Servatiiplatz 9, 48143 Münster",
     "X": 7.634605,
     "Y": 51.960357,
     "Kategorie": "",
@@ -1287,7 +1287,7 @@
     "__1": "",
     "Telefon": "02 51 / 98 11 97-20",
     "Mail": "info@deutschwerkstatt.de",
-    "Schlagworte": ""
+    "Schlagworte": "3. Etage"
   },
   {
     "Name": "Begegnungszentrum Kinderhaus e.V.",
