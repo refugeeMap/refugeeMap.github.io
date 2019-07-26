@@ -366,3 +366,6 @@ addLayers();
 map.on('click', (e) => {
     layerControl.collapse();
 });
+map.on('popupopen', (e) => {
+    layerControl.collapse();
+});
