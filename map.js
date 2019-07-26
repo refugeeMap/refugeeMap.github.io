@@ -6,8 +6,14 @@ let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 20,
     attribution: 'Map data &copy; OpenStreetMap contributors'
 });
+/**
+ * Die ersten zwei Zahlen beschreiben die Koordinaten der Anfangs-Ansicht der Karte,
+ * die letzte Zahl beschreibt die initiale Zoomstufe**/
 map.setView([51.957807, 7.628878], 13);
 
+/**
+ * Hier werden die beiden Grundkarten erzeugt
+ **/
 let CartoDB_Voyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
     subdomains: 'abcd',
@@ -28,6 +34,8 @@ let createGeojsonFeaturen = (entry) => {
     let schlagwortArray = entry.Schlagworte.split(",");
     let geojsonFeature = {
         "type": "Feature",
+        /**
+         * hier wird der Name und die Adresse der Institution in das Popup geschrieben**/
         "properties": {
             "entry": entry,
             "popupContent": '<p><b>' + entry.Name + '</b><br><br>' + entry.Adress + '<br>'
@@ -37,12 +45,18 @@ let createGeojsonFeaturen = (entry) => {
             "coordinates": [parseFloat(entry.X), parseFloat(entry.Y)]
         }
     };
+    /**
+     * Hier wird überprüft ob eine Telefonnummer hinterlegt ist und ggf zum Popup hinzugefügt**/
     if (entry.Telefon) {
         geojsonFeature.properties.popupContent += '<b>Telefon: </b><a href="tel:' + entry.Telefon + '">' + entry.Telefon + '</a>' + '<br>'
     }
+    /**
+     * Hier wird überprüft ob eine E-Mail Adresse hinterlegt ist und ggf zum Popup hinzugefügt**/
     if (entry.Mail) {
         geojsonFeature.properties.popupContent += '<b>E-Mail: </b><a href="mailto:' + entry.Mail + '">' + entry.Mail + '</a>' + '<br>'
     }
+    /**
+     * Hier wird überprüft ob Schlagwörter hinterlegt sind und ggf zum Popup hinzugefügt**/
     if (schlagwortArray[0] != "") {
         geojsonFeature.properties.popupContent += "<ul>";
         schlagwortArray.forEach(schlagwort => {
@@ -50,14 +64,8 @@ let createGeojsonFeaturen = (entry) => {
         });
         geojsonFeature.properties.popupContent += "</ul>"
     }
-    /*        map.on('popupopen', e => {
-                if (e.popup._source.feature.properties.schlagwoerter[0] != "") {
-                    e.popup._source.feature.properties.schlagwoerter.forEach(schlagwort => {
-                        document.getElementById("schlagwortKarte").innerHTML += '<li>' + schlagwort + '</li>';
-                    })
-                }
-
-            });*/
+    /**
+     * Hier wird überprüft die Website und die Google-Suche hinzugefügt**/
     geojsonFeature.properties.popupContent +=
         '<a target="_blank" href=' + entry.Website + '>mehr Informationen</a>' + '<br>' +
         '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress) + '>in GoogleMaps öffnen</a>';
@@ -66,6 +74,8 @@ let createGeojsonFeaturen = (entry) => {
     return geojsonFeature;
 };
 
+/**
+ * Hier werden die verschiedenen Layer definiert. Zuerst das Icon und dann die Layer selbst**/
 let arbeitIcon = new L.Icon({
     iconSize: [40, 40],
     iconAnchor: [13, 27],
@@ -234,7 +244,8 @@ let angebotLayer = L.geoJSON("", {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
-
+/**
+ * Diese Funktion greift auf die Daten zu, befüllt die Layer und fügt die der Karte hinzu**/
 let addLayers = () => {
     $.getJSON('mapData.json', data => {
         let arbeit = [];
