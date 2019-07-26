@@ -1,4 +1,5 @@
 let map = L.map('map');
+let layerControl;
 map.addControl(new L.Control.Fullscreen());
 let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     label: 'Street Map',
@@ -313,6 +314,11 @@ let addLayers =  () => {
 };
 
 addLayers();
+
+map.on('click', (e) => {
+    layerControl.collapse();
+});
+
 map.on('popupopen',e =>{
     if(e.popup._source.feature.properties.schlagwoerter[0] != ""){
         e.popup._source.feature.properties.schlagwoerter.forEach(schlagwort =>{
