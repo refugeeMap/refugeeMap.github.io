@@ -26,17 +26,10 @@ let basemap = {
 let createGeojsonFeaturen = (entry) => {
     let featureAttributes = JSON.stringify(entry);
     let schlagwortArray = entry.Schlagworte.split(",");
-    let schlagwortListe = [];
-    schlagwortArray.forEach(schlagwort => {
-        if (schlagwort != ",") {
-            schlagwortListe.push('<li>' + schlagwort + '</li>')
-        }
-    });
     let geojsonFeature = {
         "type": "Feature",
         "properties": {
             "entry": entry,
-            "schlagwoerter": schlagwortArray,
             "popupContent": '<p><b>' + entry.Name + '</b><br><br>' + entry.Adress + '<br>'
         },
         "geometry": {
@@ -50,8 +43,22 @@ let createGeojsonFeaturen = (entry) => {
     if (entry.Mail) {
         geojsonFeature.properties.popupContent += '<b>E-Mail: </b><a href="mailto:' + entry.Mail + '">' + entry.Mail + '</a>' + '<br>'
     }
+    if (schlagwortArray[0] != "") {
+        geojsonFeature.properties.popupContent += "<ul>";
+        schlagwortArray.forEach(schlagwort => {
+            geojsonFeature.properties.popupContent += '<li>' + schlagwort + '</li>';
+        });
+        geojsonFeature.properties.popupContent += "</ul>"
+    }
+    /*        map.on('popupopen', e => {
+                if (e.popup._source.feature.properties.schlagwoerter[0] != "") {
+                    e.popup._source.feature.properties.schlagwoerter.forEach(schlagwort => {
+                        document.getElementById("schlagwortKarte").innerHTML += '<li>' + schlagwort + '</li>';
+                    })
+                }
 
-    geojsonFeature.properties.popupContent += '<ul id="schlagwortKarte"></ul>' +
+            });*/
+    geojsonFeature.properties.popupContent +=
         '<a target="_blank" href=' + entry.Website + '>mehr Informationen</a>' + '<br>' +
         '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress) + '>in GoogleMaps öffnen</a>';
 
@@ -65,9 +72,11 @@ let arbeitIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Arbeit.png'
 });
-let arbeitLayer = L.geoJSON("", {pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:arbeitIcon});
-    }}).bindPopup(function (layer) {
+let arbeitLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: arbeitIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -77,9 +86,11 @@ let wohnenIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Wohnen.png'
 });
-let wohnenLayer = L.geoJSON("", {pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:wohnenIcon});
-    }}).bindPopup(function (layer) {
+let wohnenLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: wohnenIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -89,9 +100,11 @@ let treffpunkIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Treffpunkte.png'
 });
-let treffpunkLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:treffpunkIcon});
-    }}).bindPopup(function (layer) {
+let treffpunkLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: treffpunkIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -101,9 +114,11 @@ let beratungIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Beratung.png'
 });
-let beratungLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:beratungIcon});
-    }}).bindPopup(function (layer) {
+let beratungLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: beratungIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -113,9 +128,11 @@ let freizeitIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Freizeit.png'
 });
-let freizeitLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:freizeitIcon});
-    }}).bindPopup(function (layer) {
+let freizeitLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: freizeitIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -125,9 +142,11 @@ let kinderIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Kinder.png'
 });
-let kinderLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:kinderIcon});
-    }}).bindPopup(function (layer) {
+let kinderLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: kinderIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -137,9 +156,11 @@ let gesundheitIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Gesundheit.png'
 });
-let gesundheitLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:gesundheitIcon});
-    }}).bindPopup(function (layer) {
+let gesundheitLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: gesundheitIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -149,9 +170,11 @@ let frauenIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Frauen.png'
 });
-let frauenLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:frauenIcon});
-    }}).bindPopup(function (layer) {
+let frauenLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: frauenIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -161,9 +184,11 @@ let engagementIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Engagement.png'
 });
-let engagementLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:engagementIcon});
-    }}).bindPopup(function (layer) {
+let engagementLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: engagementIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -173,9 +198,11 @@ let deutschkurseIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Deutschkurse.png'
 });
-let deutschkurseLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:deutschkurseIcon});
-    }}).bindPopup(function (layer) {
+let deutschkurseLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: deutschkurseIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -185,9 +212,11 @@ let krankenhauserIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Krankenhaus.png'
 });
-let krankenhauserLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:krankenhauserIcon});
-    }}).bindPopup(function (layer) {
+let krankenhauserLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: krankenhauserIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
@@ -197,16 +226,18 @@ let angebotIcon = new L.Icon({
     popupAnchor: [1, -24],
     iconUrl: 'Angebot.png'
 });
-let angebotLayer = L.geoJSON("",{pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon:angebotIcon});
-    }}).bindPopup(function (layer) {
+let angebotLayer = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: angebotIcon});
+    }
+}).bindPopup(function (layer) {
     return layer.feature.properties.popupContent;
 }).addTo(map);
 
 
-let addLayers =  () => {
-    $.getJSON('mapData.json', data =>{
-        let arbeit =[];
+let addLayers = () => {
+    $.getJSON('mapData.json', data => {
+        let arbeit = [];
         let wohnen = [];
         let treffpunkte = [];
         let beratung = [];
@@ -223,7 +254,7 @@ let addLayers =  () => {
             if (entry[""] == "Zentrales Angebot") {
                 zentralesAngebot.push(entry);
             }
-            switch (entry.Thema){
+            switch (entry.Thema) {
                 case "Arbeit":
                     arbeit.push(entry);
                     break;
@@ -261,41 +292,41 @@ let addLayers =  () => {
         });
 
 
-        zentralesAngebot.forEach(entry =>{
+        zentralesAngebot.forEach(entry => {
             angebotLayer.addData(createGeojsonFeaturen(entry));
         });
 
-        arbeit.forEach(entry =>{
+        arbeit.forEach(entry => {
             arbeitLayer.addData(createGeojsonFeaturen(entry));
         });
-        wohnen.forEach(entry =>{
+        wohnen.forEach(entry => {
             wohnenLayer.addData(createGeojsonFeaturen(entry));
         });
-        treffpunkte.forEach(entry =>{
+        treffpunkte.forEach(entry => {
             treffpunkLayer.addData(createGeojsonFeaturen(entry));
         });
-        freizeit.forEach(entry =>{
+        freizeit.forEach(entry => {
             freizeitLayer.addData(createGeojsonFeaturen(entry));
         });
-        beratung.forEach(entry =>{
+        beratung.forEach(entry => {
             beratungLayer.addData(createGeojsonFeaturen(entry));
         });
-        kinder.forEach(entry =>{
+        kinder.forEach(entry => {
             kinderLayer.addData(createGeojsonFeaturen(entry));
         });
-        gesundheit.forEach(entry =>{
+        gesundheit.forEach(entry => {
             gesundheitLayer.addData(createGeojsonFeaturen(entry));
         });
-        frauen.forEach(entry =>{
+        frauen.forEach(entry => {
             frauenLayer.addData(createGeojsonFeaturen(entry));
         });
-        engagement.forEach(entry =>{
+        engagement.forEach(entry => {
             engagementLayer.addData(createGeojsonFeaturen(entry));
         });
-        deutschkurse.forEach(entry =>{
+        deutschkurse.forEach(entry => {
             deutschkurseLayer.addData(createGeojsonFeaturen(entry));
         });
-        krankenhauser.forEach(entry =>{
+        krankenhauser.forEach(entry => {
             krankenhauserLayer.addData(createGeojsonFeaturen(entry));
         });
 
@@ -307,7 +338,7 @@ let addLayers =  () => {
             "Treffpunkt": treffpunkLayer,
             "Beratung": beratungLayer,
             "Freizeit": freizeitLayer,
-            "Deutschkurse":deutschkurseLayer,
+            "Deutschkurse": deutschkurseLayer,
             "Frauen": frauenLayer,
             "Kinder": kinderLayer,
             "Engagement": engagementLayer,
@@ -323,13 +354,4 @@ addLayers();
 
 map.on('click', (e) => {
     layerControl.collapse();
-});
-
-map.on('popupopen',e =>{
-    if(e.popup._source.feature.properties.schlagwoerter[0] != ""){
-        e.popup._source.feature.properties.schlagwoerter.forEach(schlagwort =>{
-            document.getElementById("schlagwortKarte").innerHTML +=  '<li>'+schlagwort+'</li>';
-        })
-    }
-
 });
