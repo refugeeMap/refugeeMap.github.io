@@ -31,7 +31,7 @@
   },
   {
     "Name": "Kommunales Integrationszentrum",
-    "Adress": "Klemensstraße 10, 48143 Münster",
+    "Adress": "Klemensstraße 10 (Stadthaus 1, Raum 467), 48143 Münster",
     "X": 7.629351,
     "Y": 51.961302,
     "Kategorie": "Behoerde",
@@ -42,7 +42,7 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-70 81",
     "Mail": "ki-muenster@stadt-muenster.de",
-    "Schlagworte": "Stadthaus 1, Im Raum 467"
+    "Schlagworte": ""
   },
   {
     "Name": "Sozialamt der Stadt Münster",
@@ -120,7 +120,7 @@
     "Schlagworte": "Hilfe bei: Wohnungssuche, Mietprobleme, Arbeit finden, Übersetzung, Schule, Ausländerrecht, Anerkennung von Schul- und Berufsabschlüssen, Bildung"
   },
   {
-    "Name": "Caritas Münster",
+    "Name": "Caritas Münster - Fachdienst für Integration und Migration",
     "Adress": "Josefstraße 2, 48151 Münster",
     "X": 7.625118,
     "Y": 51.95376,
