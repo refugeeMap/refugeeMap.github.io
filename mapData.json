@@ -1,7 +1,7 @@
 [
   {
     "Name": "Jobcenter Münster",
-    "Adress": "Ludgeripl. 4 48151 Münster Deutschland",
+    "Adress": "Ludgeripl. 4 (Stadthaus 2), 48151 Münster",
     "X": 7.626846,
     "Y": 51.955038,
     "Kategorie": "Behoerde",
@@ -12,10 +12,10 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": "Stadthaus 2, Arbeit finden"
+    "Schlagworte": "Beratung zu:, Arbeit finden"
   },
   {
-    "Name": "Mamba",
+    "Name": "Mamba - Das Job-Netzwerk",
     "Adress": "Hafenstraße 3-5, 48153 Münster",
     "X": 7.628029,
     "Y": 51.955178,
