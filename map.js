@@ -66,15 +66,6 @@ let createGeojsonFeaturen = (entry) => {
     }
     
     /**
-    if (schlagwortArray[0] != "") {
-        geojsonFeature.properties.popupContent += "<ul>";
-        schlagwortArray.forEach(schlagwort => {
-            geojsonFeature.properties.popupContent += '<li>' + schlagwort + '</li>';
-        });
-        geojsonFeature.properties.popupContent += "</ul>"
-    }**/
-    
-    /**
      * Hier wird überprüft die Website und die Google-Suche hinzugefügt**/
     geojsonFeature.properties.popupContent +=
         '<a target="_blank" href=' + entry.Website + '>mehr Informationen</a>' + '<br>' +
