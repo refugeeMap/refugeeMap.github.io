@@ -58,12 +58,22 @@ let createGeojsonFeaturen = (entry) => {
     /**
      * Hier wird überprüft ob Schlagwörter hinterlegt sind und ggf zum Popup hinzugefügt**/
     if (schlagwortArray[0] != "") {
-        geojsonFeature.properties.popupContent += "<ul>";
+        geojsonFeature.properties.popupContent += '<b>Angebote:</b><br> + "<ul>";
         schlagwortArray.forEach(schlagwort => {
             geojsonFeature.properties.popupContent += '<li>' + schlagwort + '</li>';
         });
         geojsonFeature.properties.popupContent += "</ul>"
     }
+    
+    /**
+    if (schlagwortArray[0] != "") {
+        geojsonFeature.properties.popupContent += "<ul>";
+        schlagwortArray.forEach(schlagwort => {
+            geojsonFeature.properties.popupContent += '<li>' + schlagwort + '</li>';
+        });
+        geojsonFeature.properties.popupContent += "</ul>"
+    }**/
+    
     /**
      * Hier wird überprüft die Website und die Google-Suche hinzugefügt**/
     geojsonFeature.properties.popupContent +=
