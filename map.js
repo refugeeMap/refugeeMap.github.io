@@ -60,7 +60,7 @@ let createGeojsonFeaturen = (entry) => {
     if (schlagwortArray[0] != "") {
         geojsonFeature.properties.popupContent += "<ul>";
         schlagwortArray.forEach(schlagwort => {
-            geojsonFeature.properties.popupContent += '<b>Angebote:</b> + <li>' + schlagwort + '</li>';
+            geojsonFeature.properties.popupContent += '<b>Angebote:</b><li>' + schlagwort + '</li>';
         });
         geojsonFeature.properties.popupContent += "</ul>"
     }
