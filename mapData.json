@@ -316,7 +316,7 @@
   },
   {
     "Name": "Freiwilligenagentur Münster",
-    "Adress": "Gasselstiege 13, 48159 Münster, 02 51 4 92 59 70",
+    "Adress": "Gasselstiege 13, 48159 Münster",
     "X": 7.610756,
     "Y": 51.971946,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -346,7 +346,7 @@
   },
   {
     "Name": "Flüchtlingshilfe Münster SüdOst",
-    "Adress": "Evangelische Kirchengemeinde Wolbeck, Dirk-von-Merveldt-Straße 47, 48167 Münster, Tel. 0 25 06 81 01 110 (Pfarrbüro)",
+    "Adress": "Evangelische Kirchengemeinde Wolbeck, Dirk-von-Merveldt-Straße 47, 48167 Münster",
     "X": 7.72662,
     "Y": 51.919019,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -355,7 +355,7 @@
     "Beschreibung": "Flüchtlingshilfe, Hilfestellungen im Alltag",
     "Website": "https://fluechtlingshilfe.st-nikolaus-muenster.de/",
     "__1": "",
-    "Telefon": "",
+    "Telefon": "0 25 06 81 01 110 (Pfarrbüro)",
     "Mail": "",
     "Schlagworte": "Flüchtlingshilfe, Hilfestellungen im Alltag"
   },
