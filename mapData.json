@@ -60,7 +60,7 @@
     "Schlagworte": "Beratung zu:, Erstaufnahme, Wohnung finden, finanziellen Leistungen, sozialen Diensten"
   },
   {
-    "Name": "Afaq e.V. - Verein für kulturelle und gesellschaftliche Zusammenarbeit",
+    "Name": "Afaq e.V.<br>Verein für kulturelle und gesellschaftliche Zusammenarbeit",
     "Adress": "Moltkestraße 25, 48151 Münster",
     "X": 7.622616,
     "Y": 51.955315,
@@ -90,7 +90,22 @@
     "Schlagworte": "Handlungsfelder:, Treffpunkt, Kaffeehaus, Angebote für Senioren, Flüchtlingshilfe, Angebote für Frauen, Freizeit- und Kulturangebote"
   },
   {
-    "Name": "Deutsches Rotes Kreuz Münster - Migrationsberatung für erwachsene Zuwanderer",
+    "Name": "MuM – Mehrgenerationenhaus und Mütterzentrum e.V.",
+    "Adress": "Gescherweg 87, 48161 Münster",
+    "X": 7.57301,
+    "Y": 51.9759,
+    "Kategorie": "Projekte, Initiativen, Vereine",
+    "": "",
+    "Thema": "Frauen",
+    "Beschreibung": "Treffpunkt, Angebote für Frauen, Freizeit- und Kulturangebote",
+    "Website": "https://www.mum-muenster.de/",
+    "__1": "",
+    "Telefon": "02 51 / 13 34 87 99",
+    "Mail": "info@mum-muenster.de",
+    "Schlagworte": "Handlungsfelder:, Treffpunkt, Kaffeehaus, Angebote für Senioren, Flüchtlingshilfe, Angebote für Frauen, Freizeit- und Kulturangebote"
+  },
+  {
+    "Name": "Deutsches Rotes Kreuz Münster<br>Migrationsberatung für erwachsene Zuwanderer",
     "Adress": "Hamannplatz 38, 48157 Münster",
     "X": 7.64876,
     "Y": 51.99333,
@@ -120,7 +135,7 @@
     "Schlagworte": "Beratung zu:, Wohnungssuche, Mietprobleme, Arbeit finden, Übersetzungen, Schule, Ausländerrecht, Anerkennung von Schul- und Berufsabschlüssen, Bildung"
   },
   {
-    "Name": "Caritas Münster - Fachdienst für Integration und Migration",
+    "Name": "Caritas Münster<br>Fachdienst für Integration und Migration",
     "Adress": "Josefstraße 2, 48151 Münster",
     "X": 7.625118,
     "Y": 51.95376,
@@ -132,7 +147,7 @@
     "__1": "",
     "Telefon": "02 51 / 5 30 09-430",
     "Mail": "soziale.beratungsdienste@caritas-ms.de",
-    "Schlagworte": "Asyl, Schule, Kindergarten, Deutsch lernen, Behördengänge, Diskriminierung, finanzielle probleme, psychische Probleme"
+    "Schlagworte": "Beratung zu:, Asyl, Schule, Kindergarten, Deutsch lernen, Behördengänge, Diskriminierung, finanzielle probleme, psychische Probleme"
   },
   {
     "Name": "Universitätsklinikum Münster",
@@ -147,7 +162,7 @@
     "__1": "",
     "Telefon": "02 51 / 83-56 673",
     "Mail": "",
-    "Schlagworte": "Diagnostik, Psychotherapie, Elterngespräche, Familiengespräche, Gruppenangebote, Supervision, Gruppenangebote"
+    "Schlagworte": "Handlungsfelder:, Diagnostik, Psychotherapie, Elterngespräche, Familiengespräche, Gruppenangebote, Supervision, Gruppenangebote"
   },
   {
     "Name": "GGUA Flüchtlingshilfe",
@@ -772,21 +787,6 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Wohnen",
-    "Beschreibung": "Konkrete Unterstützung und Beratung bei der Arbeitssuche",
-    "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
-    "__1": "",
-    "Telefon": "02 51 / 1 44 86-0",
-    "Mail": "attermeyer@ggua.de",
-    "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
-  },
-  {
-    "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
-    "Adress": "Hafenstraße 3-5, 48153 Münster",
-    "X": 7.628029,
-    "Y": 51.955178,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Arbeit",
     "Beschreibung": "Konkrete Unterstützung und Beratung bei der Arbeitssuche",
     "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
     "__1": "",
