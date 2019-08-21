@@ -13,7 +13,8 @@
     "Telefon": "02 51 / 4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": "Beratung zur Arbeitssuche"
-  },
+  }
+  /*
   {
     "Name": "Mamba - Das Job-Netzwerk",
     "Adress": "Hafenstraße 3-5, 48153 Münster",
@@ -359,7 +360,6 @@
     "Mail": "",
     "Schlagworte": "Flüchtlingshilfe, Hilfestellungen im Alltag"
   },
-  /*
   {
     "Name": "Flüchtlingshilfe Münster SüdOst",
     "Adress": "Pfarrhaus St. Petronilla, Petronillaplatz 3, 48157 Münster",
