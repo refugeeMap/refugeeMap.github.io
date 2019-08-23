@@ -661,7 +661,7 @@
   },
   {
     "Name": "DRK-Joblotsen",
-    "Adress": "Alter Steinweg 11, 48143 Münster",
+    "Adress": "Stadtbücherei, im Deutsch-Lern-Raum in der 1. Etage, Alter Steinweg 11, 48143 Münster",
     "X": 7.630692,
     "Y": 51.963023,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -672,7 +672,7 @@
     "__1": "",
     "Telefon": "02 51 / 37 88 78",
     "Mail": "kathrin.hess@drk-muenster.de",
-    "Schlagworte": "Stadtbücherei, im Deutsch-Lern-Raum in der 1. Etage, Beratung und Unterstützung bei folgenden Themen: Fragen rund um die Jobsuche\nStellenanzeigen finden und lesen\nLebenslauf und Bewerbung\nOnline-Bewerbung erstellen\nInitiativbewerbung vorbereiten\nRechtschreibung und Grammatik\nVorbereitung von Vorstellungsgesprächen\nInfos und Ideen zur alternativen Form der Jobsuche\nInfos zu Bildungs- und Beratungsangeboten"
+    "Schlagworte": "Fragen rund um die Jobsuche, Stellenanzeigen finden und lesen, Lebenslauf und Bewerbung, Online-Bewerbung erstellen, Initiativbewerbung vorbereiten, Rechtschreibung und Grammatik, Vorbereitung von Vorstellungsgesprächen, Infos und Ideen zur alternativen Form der Jobsuche, Infos zu Bildungs- und Beratungsangeboten",
   },
   {
     "Name": "DRK-Wohnlotsen",
@@ -687,11 +687,11 @@
     "__1": "",
     "Telefon": "02 51 / 37 88 84",
     "Mail": "stefanie.tegeler@drk-muenster.de",
-    "Schlagworte": "Beratung und Unterstützung bei: Kontakt mit Ämtern und Vermieter*innen\nVerträge (Miet-Vertrag, Strom-Vertrag, etc.)\nAnträge, z.B. für Möbel\nMülltrennung\nEnergie sparen\nHeizen und Lüften\nReinigung der Wohnung\nNutzung von Haushaltsgeräten\nKontakt in die Nachbarschaft"
+    "Schlagworte": "Kontakt mit Ämtern und Vermietern, Verträge (Miet-Vertrag, Strom-Vertrag, etc.), Anträge (z.B. für Möbel), Mülltrennung, Energie sparen, Heizen und Lüften, Reinigung der Wohnung, Nutzung von Haushaltsgeräten, Kontakt in die Nachbarschaft"
   },
   {
     "Name": "Integration Point der Agentur für Arbeit",
-    "Adress": "Roxelerstraße 340, 48161 Münster",
+    "Adress": "Oxford-Kaserne, Gebäude 7, Jobcenter – Fachstelle Geflüchtete, Roxelerstraße 340, 48161 Münster",
     "X": 7.57671,
     "Y": 51.96106,
     "Kategorie": "Behoerde",
@@ -702,7 +702,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "",
-    "Schlagworte": "Oxford-Kaserne, Gebäude 7, Jobcenter – Fachstelle Geflüchtete"
+    "Schlagworte": "Beratung und Unterstützung zum Thema berufliche Orientierung und Qualifizierung sowie Sprachenerwerb"
   },
   {
     "Name": "Lebenshilfe - WeitWinkel Beratungsnetzwerk Migration & Behinderung",
@@ -717,7 +717,7 @@
     "__1": "",
     "Telefon": "02 51 / 53 90 6-0",
     "Mail": "info@lebenshilfe-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
@@ -742,12 +742,12 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Gesundheit",
-    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung,",
+    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-764",
     "Mail": "Stefanie.meyer@caritas-ms.de",
-    "Schlagworte": "Krankenversicherung"
+    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
