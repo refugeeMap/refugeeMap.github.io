@@ -68,7 +68,7 @@ let createGeojsonFeaturen = (entry) => {
     /**
      * Hier wird überprüft die Website und die Google-Suche hinzugefügt**/
     geojsonFeature.properties.popupContent +=
-        '<a target="_blank" href=' + entry.Website + '>mehr Informationen</a>' + '<br>' +
+        '<a target="_blank" href=' + entry.Website + '>Zur Webseite</a>' + '<br>' +
         '<a target="_blank" href=https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(entry.Adress) + '>in GoogleMaps öffnen</a>';
 
 
