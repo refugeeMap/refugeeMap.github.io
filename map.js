@@ -58,7 +58,7 @@ let createGeojsonFeaturen = (entry) => {
     /**
      * Hier wird überprüft ob Schlagwörter hinterlegt sind und ggf zum Popup hinzugefügt **/
     if (schlagwortArray[0] != "") {
-        geojsonFeature.properties.popupContent += "<b>Angebote: </b><ul class ='mapPopUp'>";
+        geojsonFeature.properties.popupContent += "<b><br>Angebote: </b><ul class ='mapPopUp'>";
         schlagwortArray.forEach(schlagwort => {
             geojsonFeature.properties.popupContent += '<li>' + schlagwort + '</li>';
         });
