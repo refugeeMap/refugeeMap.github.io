@@ -9,7 +9,7 @@ let osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 /**
  * Die ersten zwei Zahlen beschreiben die Koordinaten der Anfangs-Ansicht der Karte,
  * die letzte Zahl beschreibt die initiale Zoomstufe**/
-map.setView([51.957807, 7.628878], 13);
+map.setView([51.957807, 7.628878], 12);
 
 /**
  * Hier werden die beiden Grundkarten erzeugt
