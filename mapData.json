@@ -526,7 +526,7 @@
   },
   {
     "Name": "AWO - Regionale Flüchtlingsberatung",
-    "Adress": "Nerzweg 9, 48157 Münster",
+    "Adress": "Stadtteilbüro Coerde, Nerzweg 9, 48157 Münster",
     "X": 7.638117,
     "Y": 51.997626,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -537,11 +537,11 @@
     "__1": "",
     "Telefon": "01 76 / 19 00 33 65",
     "Mail": "a.priesemann@awo-msl-re.de",
-    "Schlagworte": "Stadtteilbüro Coerde, Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
+    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer"
   },
   {
     "Name": "AWO - Regionale Flüchtlingsberatung",
-    "Adress": "Sprickmannplatz 3, 48159 Münster",
+    "Adress": "Begegnungszentrum Kinderhaus, Sprickmannplatz 3, 48159 Münster",
     "X": 7.594992,
     "Y": 51.998923,
     "Kategorie": "Projekte, Initiativen, Vereine",
@@ -552,7 +552,7 @@
     "__1": "",
     "Telefon": "02 51 / 21 61 20",
     "Mail": "i.rosin@awo-msl-re.de",
-    "Schlagworte": "Begegnungszentrum Kinderhaus, Migrationsberatung für erwachsene Zuwanderer (MBE) Münster"
+    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer"
   },
   {
     "Name": "Caritas Flüchtlingsberatung",
@@ -582,7 +582,7 @@
     "__1": "",
     "Telefon": "02 51 / 26335-0",
     "Mail": "beratungsstelle.kinderhaus@caritas-ms.de",
-    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer/-innen"
+    "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
     "Name": "Caritas vor Ort – Beratungsstelle Gievenbeck - Migrationsberatung",
@@ -597,10 +597,10 @@
     "__1": "",
     "Telefon": "02 51 / 8 71 04-0",
     "Mail": "beratungsstelle.gievenbeck@caritas-ms.de",
-    "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer/-innen"
+    "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
-    "Name": "Caritas vor Ort – Beratungsstelle Goldtstraße - Migrationsberatung",
+    "Name": "Caritas vor Ort – Beratungsstelle Goldtstraße - Migrationsberatung<br>Fachdienst für Integration und Migration",
     "Adress": "Goldstraße 30, 48147 Münster",
     "X": 7.594992,
     "Y": 51.9682,
@@ -615,7 +615,7 @@
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
-    "Name": "Diakonie Münster",
+    "Name": "Diakonie Münster<br>Migrations- und Jugendmigrationsdienst",
     "Adress": "Alter Steinweg 34, 48143 Münster",
     "X": 7.633403,
     "Y": 51.961962,
@@ -627,10 +627,10 @@
     "__1": "",
     "Telefon": "02 51 / 49 01 5-0",
     "Mail": "",
-    "Schlagworte": "Begleitung junger Menschen im Alter von 12-27 Jahren in Münster und Warendorf und Erwachsene"
+    "Schlagworte": "Begleitung junger Menschen (im Alter von 12-27 Jahren) und Erwachsener in Münster und Warendorf"
   },
   {
-    "Name": "DRK - Ausreise und Perspektivplanung – Regionale Flüchtlingsberatung – Wohnungssuche-Treff für Geflüchtete",
+    "Name": "Deutsches Rotes Kreuz – Regionale Flüchtlingsberatung",
     "Adress": "Zumsandestraße 25/27, 48145 Münster",
     "X": 7.641752,
     "Y": 51.960038,
@@ -642,10 +642,10 @@
     "__1": "",
     "Telefon": "01 60 / 26 06 580",
     "Mail": "mark.gebauer@drk-muenster.de",
-    "Schlagworte": "Ausreise- und Perspektivberatung des DRK Münster für Geflüchtete, die aus unterschiedlichen Gründen freiwillig und selbstständig in ihr Heimatland zurückkehren wollen"
+    "Schlagworte": "Ausreise- und Perspektivberatung des DRK Münster für rückkehrwillige Geflüchtete, Ausreise und Perspektivplanung"
   },
   {
-    "Name": "DRK - Migrationszentrum Coerde – Migrationsberatung – Regionale Flüchtlingsberatung",
+    "Name": "Deutsches Rotes Kreuz - Migrationszentrum Coerde<br>Migrationsberatung – Regionale Flüchtlingsberatung",
     "Adress": "Hamannplatz 38, 48157 Münster",
     "X": 7.641752,
     "Y": 51.960038,
@@ -657,10 +657,10 @@
     "__1": "",
     "Telefon": "01 51 / 23 12 92 54",
     "Mail": "sebastian.schmitz@drk-muenster.de",
-    "Schlagworte": "Beratung und Unterstützung bei: Teilnahme am Integrationskurs, \nSuche nach geeigneter Kinderbetreuung während der Teilnahme an einem Integrationskurs, Anerkennung ausländischer Berufs-und Bildungsabschlüsse, Möglichkeiten der Berufsausbildung, Weiterbildung und Umschulung, Klärung rechtlicher Fragen zum Aufenthalt, Einbürgerung, Familienzusammenführung, Erstellung von Bewerbungsunterlagen, Zugang zu Transferleistungen/Anspruch auf Leistungen zur Sicherung des Lebensunterhalts (Arbeitslosengeld I, Arbeitslosengeld II), Fragen zu Schule, Ausbildung, Erziehung, Gesundheitsversorgung"
+    "Schlagworte": "Teilnahme am Integrationskurs, Suche nach geeigneter Kinderbetreuung während der Teilnahme an einem Integrationskurs, Anerkennung ausländischer Berufs-und Bildungsabschlüsse, Möglichkeiten der Berufsausbildung, Weiterbildung und Umschulung, Klärung rechtlicher Fragen zum Aufenthalt, Einbürgerung, Familienzusammenführung, Erstellung von Bewerbungsunterlagen, Zugang zu Transferleistungen oder Anspruch auf Leistungen zur Sicherung des Lebensunterhalts (Arbeitslosengeld I, Arbeitslosengeld II), Fragen zu Schule, Ausbildung, Erziehung, Gesundheitsversorgung"
   },
   {
-    "Name": "DRK-Joblotsen",
+    "Name": "Deutsches Rotes Kreuz - Joblotsen",
     "Adress": "Stadtbücherei, im Deutsch-Lern-Raum in der 1. Etage, Alter Steinweg 11, 48143 Münster",
     "X": 7.630692,
     "Y": 51.963023,
@@ -672,10 +672,10 @@
     "__1": "",
     "Telefon": "02 51 / 37 88 78",
     "Mail": "kathrin.hess@drk-muenster.de",
-    "Schlagworte": "Fragen rund um die Jobsuche, Stellenanzeigen finden und lesen, Lebenslauf und Bewerbung, Online-Bewerbung erstellen, Initiativbewerbung vorbereiten, Rechtschreibung und Grammatik, Vorbereitung von Vorstellungsgesprächen, Infos und Ideen zur alternativen Form der Jobsuche, Infos zu Bildungs- und Beratungsangeboten"
+    "Schlagworte": "Beratung zur Jobsuche, Stellenanzeigen finden und lesen, Lebenslauf und Bewerbung, Online-Bewerbung erstellen, Initiativbewerbung vorbereiten, Rechtschreibung und Grammatik, Vorbereitung von Vorstellungsgesprächen, Infos und Ideen zur alternativen Form der Jobsuche, Infos zu Bildungs- und Beratungsangeboten"
   },
   {
-    "Name": "DRK-Wohnlotsen",
+    "Name": "Deutsches Rotes Kreuz - Wohnlotsen",
     "Adress": "Zumsandestraße 25/27, 48145 Münster",
     "X": 7.641752,
     "Y": 51.960038,
@@ -727,12 +727,12 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Gesundheit",
-    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung,",
+    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
     "Mail": "heymann@ggua.de",
-    "Schlagworte": "Krankenversicherung"
+    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
@@ -807,7 +807,7 @@
     "__1": "",
     "Telefon": "02 51 / 1 44 86-12",
     "Mail": "steinhaus@ggua.de",
-    "Schlagworte": ""
+    "Schlagworte": "Treffpunkt für Frauen"
   },
   {
     "Name": "UKM-Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen am Universitätsklinikum Münster",
@@ -825,7 +825,7 @@
     "Schlagworte": "Kinder, Beratung, Geflüchtete, Trauma"
   },
   {
-    "Name": "NIMA`S e.V",
+    "Name": "NIMA'S e.V",
     "Adress": "Kapustaweg 10, 48159 Münster",
     "X": 7.618231,
     "Y": 52.033555,
@@ -837,7 +837,7 @@
     "__1": "",
     "Telefon": "02 51 / 70 37 65 45",
     "Mail": "info@nimas.org",
-    "Schlagworte": "Kinder, Jugendliche, Ausbildung, Arbeit, Schule"
+    "Schlagworte": "Unterstützung von Kindern und Jugendlichen aus Familien mit Migrationshintergrund, Förderung der schulischen und beruflichen Ausbildung"
   },
   {
     "Name": "Mieter/innen-Schutzverein Münster und Umgebung e.V.",
@@ -852,7 +852,7 @@
     "__1": "",
     "Telefon": "02 51 / 51 17 59",
     "Mail": "info@msv-muenster.de",
-    "Schlagworte": "Wohnen, Wohnung, Mieterschutz"
+    "Schlagworte": "Vertretung der Interessen und Rechte von Mieterinnen und Mietern"
   },
   {
     "Name": "Mieterverein Wohn-in",
@@ -867,7 +867,7 @@
     "__1": "",
     "Telefon": "02 51 / 52 30 21",
     "Mail": "wohn-in@wohn-in.de",
-    "Schlagworte": "Wohnen, Wohnung, Mieterschutz"
+    "Schlagworte": "Mieterschutz, Wohnungssuche"
   },
   {
     "Name": "Zartbitter Münster e.V.",
@@ -877,12 +877,12 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Beratung",
-    "Beschreibung": "Beratung  zu und Prävention von sexualisierter Gewalt",
+    "Beschreibung": "Beratung zu und Prävention von sexualisierter Gewalt",
     "Website": "https://www.muenster.org/zart-bitter",
     "__1": "",
     "Telefon": "02 51 / 41 40 555",
     "Mail": "info@zartbitter-muenster.de",
-    "Schlagworte": "Beratung  zu und Prävention von sexualisierter Gewalt"
+    "Schlagworte": "Beratung zu und Prävention von sexualisierter Gewalt"
   },
   {
     "Name": "Zartbitter Münster e.V.",
@@ -897,7 +897,7 @@
     "__1": "",
     "Telefon": "02 51 / 41 40 555",
     "Mail": "info@zartbitter-muenster.de",
-    "Schlagworte": "Beratung  zu und Prävention von sexualisierter Gewalt"
+    "Schlagworte": "Beratung zu und Prävention von sexualisierter Gewalt"
   },
   {
     "Name": "Beratungsstelle Frauen-Notruf",
@@ -912,7 +912,7 @@
     "__1": "",
     "Telefon": "02 51 / 3 44 43",
     "Mail": "info@frauennotruf-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Beratung und Unterstützung für Frauen und Mädchen, Beratung zu sexualisierter Gewalt"
   },
   {
     "Name": "Gesundheits- und Veterinäramt der Stadt Münster",
@@ -927,7 +927,7 @@
     "__1": "",
     "Telefon": "02 51 / 4 92-53 77",
     "Mail": "gesundheitsamt@stadt-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Verbraucherschutz"
   },
   {
     "Name": "Jobcenter Münster",
@@ -942,7 +942,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Jobvermittlung"
   },
   {
     "Name": "Jobcenter Münster (Geschäftsstelle Nord)",
@@ -957,7 +957,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Jobvermittlung"
   },
   {
     "Name": "Jobcenter Münster (Geschäftsstelle Wolbeck)",
@@ -972,7 +972,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Jobvermittlung"
   },
   {
     "Name": "Jobcenter Münster (Geschäftsstelle Hiltrup)",
@@ -987,7 +987,7 @@
     "__1": "",
     "Telefon": "02 51/4 92-92 92",
     "Mail": "jobcenter@stadt-muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Jobvermittlung"
   },
   {
     "Name": "Mobile Beratung im RB Münster – Gegen Rechtsextremismus, für Demokratie.",
@@ -1002,7 +1002,7 @@
     "__1": "",
     "Telefon": "02 51 / 4 92 71 09",
     "Mail": "kontakt@mobim.info",
-    "Schlagworte": ""
+    "Schlagworte": "Informationsstelle gegen Diskriminierung, Gewalt und Rassismus"
   },
   {
     "Name": "International Office – Die Brücke",
@@ -1017,7 +1017,7 @@
     "__1": "",
     "Telefon": "02 51 / 83 22 229",
     "Mail": "diebruecke@wwu.de",
-    "Schlagworte": ""
+    "Schlagworte": "Zentrale Anlaufstelle für alle eingeschriebenen internationalen Studierenden"
   },
   {
     "Name": "Sozialbüro im cuba (sic)",
@@ -1027,12 +1027,12 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Beratung",
-    "Beschreibung": "Beratung für Menschen ind schwierigen wirtschaftlichen und sozialen Lebenslagen (Trennung / Scheidung, psychosoziale Beratung, Selbsthilfe, Vermittlung an andere Beratungsstellen",
+    "Beschreibung": "Beratung für Menschen in schwierigen wirtschaftlichen und sozialen Lebenslagen (Trennung / Scheidung, psychosoziale Beratung, Selbsthilfe, Vermittlung an andere Beratungsstellen",
     "Website": "http://www.sozialbuero.net/index.php?id=167",
     "__1": "",
     "Telefon": "0251 / 58 85 6",
     "Mail": "sic@muenster.de",
-    "Schlagworte": ""
+    "Schlagworte": "Beratung für Menschen in schwierigen wirtschaftlichen und sozialen Lebenslagen (Trennung / Scheidung / psychosoziale Beratung / Selbsthilfe / Vermittlung an andere Beratungsstellen)"
   },
   {
     "Name": "Sozialbüro im cuba (sic)",
