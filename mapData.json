@@ -1379,4 +1379,34 @@
     "Mail": "info@anna-krueckmann-haus.de",
     "Schlagworte": "Einfache Sprachkurse ohne Zertifikat in verschiedenen Stadtteilen"
   }
+  {
+    "Name": "Arbeitsgemeinschaft Betriebssozialarbeit e.V.",
+    "Adress": "Verwaltung: Graelstraße 3, 48153 Münster",
+    "X": 7.642644,
+    "Y": 51.960753,
+    "Kategorie": "",
+    "": "",
+    "Thema": "Arbeit",
+    "Beschreibung": "Integration von Geflüchteten in den Arbeitsmarkt",
+    "Website": "https://www.agbsa.de/",
+    "__1": "",
+    "Telefon": "02 51 / 4 48 17",
+    "Mail": "mail@agbsa.de",
+    "Schlagworte": "Verschiedene Angebote für geflüchtete Menschen zur Integration auf dem Arbeitsmarkt, Coaching - Beratung"
+  }
+    {
+    "Name": "Arbeitsgemeinschaft Betriebssozialarbeit e.V.",
+    "Adress": "Werkstatt und Schulung: Nieberdingstraße 30 (Haus 1), 48155 Münster",
+    "X": 7.642644,
+    "Y": 51.960753,
+    "Kategorie": "",
+    "": "",
+    "Thema": "Arbeit",
+    "Beschreibung": "Integration von Geflüchteten in den Arbeitsmarkt",
+    "Website": "https://www.agbsa.de/",
+    "__1": "",
+    "Telefon": "02 51 / 6 33 10",
+    "Mail": "mail@agbsa.de",
+    "Schlagworte": "Verschiedene Angebote für geflüchtete Menschen zur Integration auf dem Arbeitsmarkt, Coaching - Beratung"
+  }
 ]
