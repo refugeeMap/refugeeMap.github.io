@@ -14,6 +14,21 @@
     "Mail": "jobcenter@stadt-muenster.de",
     "Schlagworte": "Sprach-, Ausbildungs- und Arbeitsförderung für alle Migrantinnen und Migranten"
   },
+  {
+    "Name": "Agentur für Arbeit",
+    "Adress": "Martin-Luther-King-Weg 22, 48155 Münster",
+    "X": 7.653043,
+    "Y": 51.934603,
+    "Kategorie": "Behoerde",
+    "": "Zentrales Angebot",
+    "Thema": "Arbeit",
+    "Beschreibung": "Jobcenter - Hilfe zur Arbeitssuche",
+    "Website": "https://www.stadt-muenster.de/jobcenter/index.html",
+    "__1": "",
+    "Telefon": "0800 45 55 500",
+    "Mail": "",
+    "Schlagworte": "Sprach-, Ausbildungs- und Arbeitsförderung (nicht für Geflüchtete)"
+  },
     {
     "Name": "Integration Point der Agentur für Arbeit",
     "Adress": "Oxford-Kaserne, Gebäude 38, Jobcenter – Fachstelle Geflüchtete, Roxelerstraße 340, 48161 Münster",
@@ -28,6 +43,21 @@
     "Telefon": "02 51/4 92-69 82 80",
     "Mail": "Ahlen-Muenster.team-integration-point@arbeitsagentur.de",
     "Schlagworte": "Beratung und Unterstützung für Geflüchtete zum Thema berufliche Orientierung und Qualifizierung sowie Sprachenerwerb"
+  },
+    {
+    "Name": "Sozialamt der Stadt Münster",
+    "Adress": "Hafenstraße 8, 48153 Münster",
+    "X": 7.628367,
+    "Y": 51.954648,
+    "Kategorie": "Behoerde",
+    "": "Zentrales Angebot",
+    "Thema": "Wohnen",
+    "Beschreibung": "Sozialamt der Stadt Münster",
+    "Website": "https://www.stadt-muenster.de/sozialamt/startseite.html",
+    "__1": "",
+    "Telefon": "02 51 / 4 92 55 60",
+    "Mail": "sozialamt@stadt-muenster.de",
+    "Schlagworte": "Erstaufnahme, Wohnung finden, finanzielle Leistungen, soziale Dienste, Sprachkursangebote und berufliche Orientierung"
   },
   {
     "Name": "Mamba - Das Job-Netzwerk",
@@ -88,21 +118,6 @@
     "Telefon": "02 51 / 4 92-70 81",
     "Mail": "ki-muenster@stadt-muenster.de",
     "Schlagworte": "Schnittstelle zwischen städtischer Verwaltung und Migrantenselbstorganisationen, Erarbeitung und Umsetzung des Migrationsleitbildes der Stadt Münster, Förderung von Integrationsprojekten"
-  },
-  {
-    "Name": "Sozialamt der Stadt Münster",
-    "Adress": "Hafenstraße 8, 48153 Münster",
-    "X": 7.628367,
-    "Y": 51.954648,
-    "Kategorie": "Behoerde",
-    "": "Zentrales Angebot",
-    "Thema": "Wohnen",
-    "Beschreibung": "Sozialamt der Stadt Münster",
-    "Website": "https://www.stadt-muenster.de/sozialamt/startseite.html",
-    "__1": "",
-    "Telefon": "02 51 / 4 92-50 01",
-    "Mail": "sozialamt@stadt-muenster.de",
-    "Schlagworte": "Erstaufnahme, Wohnung finden, finanzielle Leistungen, soziale Dienste"
   },
   {
     "Name": "Afaq e.V.<br>Verein für kulturelle und gesellschaftliche Zusammenarbeit",
