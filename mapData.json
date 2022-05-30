@@ -27,7 +27,7 @@
     "__1": "",
     "Telefon": "0800 45 55 500",
     "Mail": "",
-    "Schlagworte": "Sprach-, Ausbildungs- und Arbeitsförderung (nicht für Geflüchtete)"
+    "Schlagworte": "Sprachförderung, Ausbildungs- und Arbeitsförderung, (Angebote gelten nicht für Geflüchtete)"
   },
     {
     "Name": "Integration Point der Agentur für Arbeit",
@@ -210,7 +210,7 @@
     "Schlagworte": "Integrationskurse, Arbeit und Ausbildung, Anerkennung ausländischer Zeugnisse und Berufsabschlüsse, berufliche Weiterbildung und Umschulung, Vermittlung zu Fachdiensten und Behörden, Anträge und amtliche Post, Kinderbetreuung, finanzielle Fragen und soziale Leistungen, Gesundheitsversorgung, Niederlassungserlaubnis, Aufenthalt, Einbürgerung"
   },
   {
-    "Name": "Deutsches Rotes Kreuz – Regionale Flüchtlingsberatung",
+    "Name": "Deutsches Rotes Kreuz – Ausreise- und Perspektivberatung",
     "Adress": "Albersloher Weg 450, 48167 Münster",
     "X": 7.665640,
     "Y": 51.926533,
@@ -224,35 +224,20 @@
     "Mail": "carolin.anczykowski@drk-muenster.de",
     "Schlagworte": "Ausreise- und Perspektivberatung des DRK Münster für rückkehrwillige Geflüchtete, Alternativen zur Ausreise, Beschaffung von Dokumenten, gesundheitsliche Versorgung, Arbeitssuche im Zielland, Ausreise mit Kindern, Ausreise bei Krankheit"
   },
-  {
-    "Name": "Deutsches Rotes Kreuz - Migrationszentrum Coerde<br>Migrationsberatung – Regionale Flüchtlingsberatung",
-    "Adress": "Hamannplatz 38, 48157 Münster",
-    "X": 7.641752,
-    "Y": 51.960038,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Migrationsberatung für erwachsene Zuwanderer/-innen",
-    "Website": "https://www.drk-muenster.de/angebot/migration/migrationsberatung.php",
-    "__1": "",
-    "Telefon": "01 51 / 23 12 92 54",
-    "Mail": "sebastian.schmitz@drk-muenster.de",
-    "Schlagworte": "Teilnahme am Integrationskurs, Suche nach geeigneter Kinderbetreuung während der Teilnahme an einem Integrationskurs, Anerkennung ausländischer Berufs-und Bildungsabschlüsse, Möglichkeiten der Berufsausbildung, Weiterbildung und Umschulung, Klärung rechtlicher Fragen zum Aufenthalt, Einbürgerung, Familienzusammenführung, Erstellung von Bewerbungsunterlagen, Zugang zu Transferleistungen oder Anspruch auf Leistungen zur Sicherung des Lebensunterhalts (Arbeitslosengeld I, Arbeitslosengeld II), Fragen zu Schule, Ausbildung, Erziehung, Gesundheitsversorgung"
-  },
-  {
-    "Name": "Deutsches Rotes Kreuz - Wohnlotsen",
+    {
+    "Name": "Deutsches Rotes Kreuz - Regionale Beratung",
     "Adress": "Zumsandestraße 25/27, 48145 Münster",
     "X": 7.641752,
     "Y": 51.960038,
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
-    "Thema": "Wohnen",
-    "Beschreibung": "Beratung und Unterstützung bei: Kontakt mit Ämtern und Vermieter*innen\nVerträge (Miet-Vertrag, Strom-Vertrag, etc.)\nAnträge, z.B. für Möbel\nMülltrennung\nEnergie sparen\nHeizen und Lüften\nReinigung der Wohnung\nNutzung von Haushaltsgeräten\nKontakt in die Nachbarschaft",
+    "Thema": "Beratung",
+    "Beschreibung": "Kontakt mit Ämtern",
     "Website": "https://www.drk-muenster.de/angebot/migration/zuhause-finden/wohnlotsen/",
     "__1": "",
-    "Telefon": "02 51 / 37 88 84",
-    "Mail": "stefanie.tegeler@drk-muenster.de",
-    "Schlagworte": "Kontakt mit Ämtern und Vermietern, Verträge (Miet-Vertrag, Strom-Vertrag, etc.), Anträge (z.B. für Möbel), Mülltrennung, Energie sparen, Heizen und Lüften, Reinigung der Wohnung, Nutzung von Haushaltsgeräten, Kontakt in die Nachbarschaft"
+    "Telefon": "01 60 / 95 31 20 87",
+    "Mail": "dominik.maier@drk-muenster.de",
+    "Schlagworte": "Asylverfahren und Aufenthalt, Soziale Absicherung nach dem Asylbewerberleistungsgesetz, Wohnung und Unterbringung, Deutsch lernen und Integrationskurs, Kindergarten und Schule, Gesundheit, Amtliche Post, Ausfüllen von Anträgen und Formularen",
   },
   {
     "Name": "Diakonie Münster<br>Migrationsberatung für Jugendliche und Erwachsene",
