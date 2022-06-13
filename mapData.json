@@ -299,21 +299,6 @@
     "Mail": "beratungs-und-bildungscentrum@diakonie-muenster.de",
     "Schlagworte": "Wohnungssuche, Mietprobleme, Arbeit finden, Übersetzungen, Schule, Ausländerrecht, Anerkennung von Schul- und Berufsabschlüssen, Bildung"
   },
-    {
-    "Name": "GGUA Flüchtlingshilfe",
-    "Adress": "Hafenstraße 3-5, 48153 Münster",
-    "X": 7.628029,
-    "Y": 51.955178,
-    "Kategorie": "Zentrales Angebot",
-    "": "Zentrales Angebot",
-    "Thema": "Beratung",
-    "Beschreibung": "Flüchtlingshilfe",
-    "Website": "https://www.ggua.de/",
-    "__1": "",
-    "Telefon": "02 51 / 1 44 86-0",
-    "Mail": "info@ggua.de",
-    "Schlagworte": "Flüchtlingsberatung, Migrationsberatung"
-  },
   {
     "Name": "Afrika Kooperative e.V.",
     "Adress": "In der Au 11b, 48159 Münster",
@@ -659,36 +644,6 @@
     "Mail": "",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
-    {
-    "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
-    "Adress": "Hafenstraße 3-5, 48153 Münster",
-    "X": 7.628029,
-    "Y": 51.955178,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Treffpunkte",
-    "Beschreibung": "Konkrete Unterstützung und Beratung bei der Arbeitssuche",
-    "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
-    "__1": "",
-    "Telefon": "02 51 / 1 44 86-0",
-    "Mail": "attermeyer@ggua.de",
-    "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
-  },
-  {
-    "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
-    "Adress": "Hafenstraße 3-5, 48153 Münster",
-    "X": 7.628029,
-    "Y": 51.955178,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Wohnen",
-    "Beschreibung": "Konkrete Unterstützung und Beratung bei der Arbeitssuche",
-    "Website": "https://www.ggua.de/arbeitsbereiche/das-tib-cafe/",
-    "__1": "",
-    "Telefon": "02 51 / 1 44 86-0",
-    "Mail": "attermeyer@ggua.de",
-    "Schlagworte": "Hilfe bei der Wohnungs- und Arbeitssuche"
-  },
   {
     "Name": "Internationales FrauenQuasselcafé",
     "Adress": "Hafenstraße 3-5, 48153 Münster",
@@ -703,6 +658,21 @@
     "Telefon": "02 51 / 1 44 86-12",
     "Mail": "steinhaus@ggua.de",
     "Schlagworte": "Treffpunkt für Frauen"
+  },
+      {
+    "Name": "GGUA Flüchtlingshilfe",
+    "Adress": "Hafenstraße 3-5, 48153 Münster",
+    "X": 7.628029,
+    "Y": 51.955178,
+    "Kategorie": "Zentrales Angebot",
+    "": "Zentrales Angebot",
+    "Thema": "Beratung",
+    "Beschreibung": "Flüchtlingshilfe, Migrationsberatung für erwachsene Zuwanderer",
+    "Website": "https://www.ggua.de/arbeitsbereiche/migrationsberatung-fuer-erwachsene-zuwanderer-mbe/",
+    "__1": "",
+    "Telefon": "02 51 / 1 44 86-0",
+    "Mail": "info@ggua.de",
+    "Schlagworte": "Flüchtlingsberatung, Migrationsberatung, Asylverfahrensberatung, Refugio Münster, MAMBA, Klar für Gesundheit - Krankenkasse, Einzel- und Sprachpatenschaften, Internationales FrauenQuasselcafé, Radio Fluchtpunkt, Freiwillige Rückkehr"
   },
   {
     "Name": "Diakonie Münster<br>Migrations- und Jugendmigrationsdienst",
