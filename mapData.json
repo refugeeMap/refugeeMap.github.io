@@ -626,7 +626,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-764",
-    "Mail": "",
+    "Mail": "jana.bueker@caritas-ms.de",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
@@ -637,12 +637,27 @@
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Gesundheit",
-    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung,",
+    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
     "Mail": "heymann@ggua.de",
     "Schlagworte": "Malteser Medizin für Menschen ohne Krankenversicherung, Malteserzentrum, Krankenversicherung"
+  },
+    {
+    "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
+    "Adress": "beim Haus der Wohnungslosenhilfe (HdW), Bischof-Hermann-Stiftung, Bahnhofstraße 62, 48143 Münster",
+    "X": 7.632847,
+    "Y": 51.954321,
+    "Kategorie": "Projekte, Initiativen, Vereine",
+    "": "",
+    "Thema": "Gesundheit",
+    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
+    "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
+    "__1": "",
+    "Telefon": "",
+    "Mail": "",
+    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
     {
     "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
