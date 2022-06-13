@@ -548,7 +548,7 @@
     "": "",
     "Thema": "Arbeit",
     "Beschreibung": "Flüchtlingshilfe, Hilfestellungen im Alltag",
-    "Website": "",
+    "Website": "https://www.awo-msl-re.de/einrichtung/migrationsberatung-fuer-erwachsene-zuwandererinnen-5",
     "__1": "",
     "Telefon": "01 76 / 19 00 35 30",
     "Mail": "i.rosin@awo-msl-re.de",
@@ -570,21 +570,6 @@
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer"
   },
   {
-    "Name": "Caritas Flüchtlingsberatung",
-    "Adress": "Goldstraße 30, 48147 Münster",
-    "X": 7.63787,
-    "Y": 51.9682,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Fachdienst für Integration und Migration",
-    "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/migrationsdienst",
-    "__1": "",
-    "Telefon": "02 51 / 5 30 09-768",
-    "Mail": "migrationsdienst@caritas-ms.de",
-    "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
-  },
-  {
     "Name": "Caritas vor Ort – Beratungsstelle Kinderhaus - Migrationsberatung",
     "Adress": "Idenbrockplatz 8 , 48159 Münster",
     "X": 7.603707,
@@ -595,7 +580,7 @@
     "Beschreibung": "Migrationsberatung in Caritas vor Ort-Beratungsstellen",
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
     "__1": "",
-    "Telefon": "02 51 / 26335-0",
+    "Telefon": "02 51 / 2 63 35-0",
     "Mail": "beratungsstelle.kinderhaus@caritas-ms.de",
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
@@ -615,7 +600,7 @@
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
   },
   {
-    "Name": "Caritas vor Ort – Beratungsstelle Goldtstraße - Migrationsberatung<br>Fachdienst für Integration und Migration",
+    "Name": "Caritas vor Ort – Beratungsstelle Goldstraße - Migrationsberatung<br>Fachdienst für Integration und Migration",
     "Adress": "Goldstraße 30, 48147 Münster",
     "X": 7.594992,
     "Y": 51.9682,
@@ -625,39 +610,9 @@
     "Beschreibung": "Fachdienst für Integration und Migration",
     "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
     "__1": "",
-    "Telefon": "02 51 / 5 30 09-430",
+    "Telefon": "02 51 / 5 30 09-769",
     "Mail": "migrationsdienst@caritas-ms.de",
     "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
-  },
-  {
-    "Name": "Diakonie Münster<br>Migrations- und Jugendmigrationsdienst",
-    "Adress": "Alter Steinweg 34, 48143 Münster",
-    "X": 7.633403,
-    "Y": 51.961962,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Migrations- und Jugendmigrationsdienst",
-    "Website": "https://www.diakonie-muenster.de/web/beratungs-und-bildungscentrum/main/themenfelder/migration.html",
-    "__1": "",
-    "Telefon": "02 51 / 49 01 5-0",
-    "Mail": "",
-    "Schlagworte": "Begleitung junger Menschen (im Alter von 12-27 Jahren) und Erwachsener in Münster und Warendorf"
-  },
-  {
-    "Name": "Lebenshilfe - WeitWinkel Beratungsnetzwerk Migration & Behinderung",
-    "Adress": "Windthorststraße 7, 48143 Münster",
-    "X": 7.633183,
-    "Y": 51.956909,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige",
-    "Website": "https://www.lebenshilfe-muenster.de/de/",
-    "__1": "",
-    "Telefon": "02 51 / 53 90 6-0",
-    "Mail": "info@lebenshilfe-muenster.de",
-    "Schlagworte": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
@@ -686,7 +641,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-764",
-    "Mail": "Stefanie.meyer@caritas-ms.de",
+    "Mail": "",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
@@ -704,7 +659,7 @@
     "Mail": "heymann@ggua.de",
     "Schlagworte": "Malteser Medizin für Menschen ohne Krankenversicherung, Malteserzentrum, Krankenversicherung"
   },
-  {
+    {
     "Name": "TIB-Café (GGUA) (Treffen-Information-Beratung)",
     "Adress": "Hafenstraße 3-5, 48153 Münster",
     "X": 7.628029,
@@ -748,6 +703,36 @@
     "Telefon": "02 51 / 1 44 86-12",
     "Mail": "steinhaus@ggua.de",
     "Schlagworte": "Treffpunkt für Frauen"
+  },
+  {
+    "Name": "Diakonie Münster<br>Migrations- und Jugendmigrationsdienst",
+    "Adress": "Alter Steinweg 34, 48143 Münster",
+    "X": 7.633403,
+    "Y": 51.961962,
+    "Kategorie": "Projekte, Initiativen, Vereine",
+    "": "",
+    "Thema": "Beratung",
+    "Beschreibung": "Migrations- und Jugendmigrationsdienst",
+    "Website": "https://www.diakonie-muenster.de/web/beratungs-und-bildungscentrum/main/themenfelder/migration.html",
+    "__1": "",
+    "Telefon": "02 51 / 49 01 5-0",
+    "Mail": "",
+    "Schlagworte": "Begleitung junger Menschen (im Alter von 12-27 Jahren) und Erwachsener in Münster und Warendorf"
+  },
+  {
+    "Name": "Lebenshilfe - WeitWinkel Beratungsnetzwerk Migration & Behinderung",
+    "Adress": "Windthorststraße 7, 48143 Münster",
+    "X": 7.633183,
+    "Y": 51.956909,
+    "Kategorie": "Projekte, Initiativen, Vereine",
+    "": "",
+    "Thema": "Beratung",
+    "Beschreibung": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige",
+    "Website": "https://www.lebenshilfe-muenster.de/de/",
+    "__1": "",
+    "Telefon": "02 51 / 53 90 6-0",
+    "Mail": "info@lebenshilfe-muenster.de",
+    "Schlagworte": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige"
   },
   {
     "Name": "UKM-Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen am Universitätsklinikum Münster",
