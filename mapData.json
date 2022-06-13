@@ -674,6 +674,21 @@
     "Mail": "info@ggua.de",
     "Schlagworte": "Flüchtlingsberatung, Migrationsberatung, Asylverfahrensberatung, Refugio Münster, MAMBA, Klar für Gesundheit - Krankenkasse, Einzel- und Sprachpatenschaften, Internationales FrauenQuasselcafé, Radio Fluchtpunkt, Freiwillige Rückkehr"
   },
+        {
+    "Name": "GGUA Flüchtlingshilfe",
+    "Adress": "Hafenstraße 3-5, 48153 Münster",
+    "X": 7.628029,
+    "Y": 51.955178,
+    "Kategorie": "Projekte, Initiativen, Vereine",
+    "": "",
+    "Thema": "Beratung",
+    "Beschreibung": "Flüchtlingshilfe, Migrationsberatung für erwachsene Zuwanderer",
+    "Website": "https://www.ggua.de/arbeitsbereiche/migrationsberatung-fuer-erwachsene-zuwanderer-mbe/",
+    "__1": "",
+    "Telefon": "02 51 / 1 44 86-0",
+    "Mail": "info@ggua.de",
+    "Schlagworte": "Flüchtlingsberatung, Migrationsberatung, Asylverfahrensberatung, Refugio Münster, MAMBA, Klar für Gesundheit - Krankenkasse, Einzel- und Sprachpatenschaften, Internationales FrauenQuasselcafé, Radio Fluchtpunkt, Freiwillige Rückkehr"
+  },
   {
     "Name": "Diakonie Münster<br>Migrations- und Jugendmigrationsdienst",
     "Adress": "Alter Steinweg 34, 48143 Münster",
@@ -686,23 +701,8 @@
     "Website": "https://www.diakonie-muenster.de/web/beratungs-und-bildungscentrum/main/themenfelder/migration.html",
     "__1": "",
     "Telefon": "02 51 / 49 01 5-0",
-    "Mail": "",
+    "Mail": "beratungs-und-bildungscentrum@diakonie-muenster.de",
     "Schlagworte": "Begleitung junger Menschen (im Alter von 12-27 Jahren) und Erwachsener in Münster und Warendorf"
-  },
-  {
-    "Name": "Lebenshilfe - WeitWinkel Beratungsnetzwerk Migration & Behinderung",
-    "Adress": "Windthorststraße 7, 48143 Münster",
-    "X": 7.633183,
-    "Y": 51.956909,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige",
-    "Website": "https://www.lebenshilfe-muenster.de/de/",
-    "__1": "",
-    "Telefon": "02 51 / 53 90 6-0",
-    "Mail": "info@lebenshilfe-muenster.de",
-    "Schlagworte": "Unterstützung bei Beantragung Schwerbehindertenausweis, allgemeine Infos, Beratung für Angehörige"
   },
   {
     "Name": "UKM-Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen am Universitätsklinikum Münster",
@@ -713,10 +713,10 @@
     "": "",
     "Thema": "Gesundheit",
     "Beschreibung": "Psychotherapeutische Erstversorgung, psychologische Betreuung u. Unterstützung",
-    "Website": "https://www.ukm.de/index.php?id=psych_flchtlingskinder",
+    "Website": "https://web.ukm.de/index.php?id=kjp_spezialsprechstunden",
     "__1": "",
     "Telefon": "02 51 / 83-56 673",
-    "Mail": "",
+    "Mail": "kipsych-ambulanz@ukmuenster.de",
     "Schlagworte": "Kinder, Beratung, Geflüchtete, Trauma"
   },
   {
