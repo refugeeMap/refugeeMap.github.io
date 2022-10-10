@@ -987,7 +987,7 @@
     "__1": "",
     "Telefon": "02 51 / 97 6-0",
     "Mail": "info.clemenshospital@alexianer.de",
-    "Schlagworte": ""
+    "Schlagworte": "Notfallpraxis der KVWL für Kinder- und Jugendliche"
   },
   {
     "Name": "Evangelisches Krankenhaus Johannisstift",
@@ -1002,7 +1002,7 @@
     "__1": "",
     "Telefon": "02 51 / 27 06-0",
     "Mail": "info.muenster@valeo-kliniken.de",
-    "Schlagworte": ""
+    "Schlagworte": "Altersmedizinisches Angebot, Schmerztherapie, Demenzstation, Akutgeriatrie, Frührehabilitation"
   },
   {
     "Name": "Herz-Jesu-Krankenhaus",
@@ -1032,7 +1032,7 @@
     "__1": "",
     "Telefon": "02 51 / 50 07-0",
     "Mail": "Info.raphaelsklinik@alexianer.de",
-    "Schlagworte": ""
+    "Schlagworte": "Notfallpraxis der KVWL für Erwachsene"
   },
   {
     "Name": "St. Franziskus-Hospital",
@@ -1051,18 +1051,18 @@
   },
     {
     "Name": "Universitätsklinikum Münster",
-    "Adress": "Schmeddingstraße 50, 48149 Münster",
-    "X": 7.59094,
-    "Y": 51.95819,
+    "Adress": "Albert-Schweitzer-Campus 1, Gebäude A1, 48149 Münster",
+    "X": 7.595675,
+    "Y": 51.961864,
     "Kategorie": "Krankenhaus",
     "": "",
     "Thema": "Krankenhaus",
-    "Beschreibung": "Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen",
-    "Website": "https://www.ukm.de/index.php?id=psych_flchtlingskinder",
+    "Beschreibung": "",
+    "Website": "https://www.ukm.de/",
     "__1": "",
-    "Telefon": "02 51 / 83-56 673",
+    "Telefon": "02 51 / 83-55555",
     "Mail": "",
-    "Schlagworte": "Diagnostik, Psychotherapie, Elterngespräche, Familiengespräche, Gruppenangebote, Supervision, Gruppenangebote"
+    "Schlagworte": ""
   },
   {
     "Name": "Reisezentrum Münster",
