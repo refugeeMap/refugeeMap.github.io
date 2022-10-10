@@ -582,7 +582,7 @@
     "__1": "",
     "Telefon": "02 51 / 5 30 09-769",
     "Mail": "migrationsdienst@caritas-ms.de",
-    "Schlagworte": "Asylberatung, Schule, Kindergarten, Deutsch lernen, Behördengänge, Diskriminierung, finanzielle Probleme, psychische Probleme"
+    "Schlagworte": "Asylberatung, Schule, Kindergarten, berufliche Eingliederung, Anerkennung von Bildungs- und Berufsabschlüssen, Deutsch lernen, Behördengänge, Diskriminierung, finanzielle Probleme, psychische Probleme"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
@@ -595,15 +595,15 @@
     "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
-    "Telefon": "02 51 / 1 44 86-48",
-    "Mail": "kroeger@ggua.de",
-    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
+    "Telefon": "02 51 / 1 44 86-50",
+    "Mail": "clearingstelle@ggua.de",
+    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung, Verbesserung der Versorgungssituation von Menschen ohne Papiere"
   },
   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
-    "Adress": "Goldstraße 30, 48147 Münster",
-    "X": 7.63787,
-    "Y": 51.9682,
+    "Adress": "Josefstraße 2, 48147 Münster",
+    "X": 7.625093,
+    "Y": 51.953779,
     "Kategorie": "Projekte, Initiativen, Vereine",
     "": "",
     "Thema": "Gesundheit",
@@ -611,7 +611,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-764",
-    "Mail": "jana.bueker@caritas-ms.de",
+    "Mail": "bouchra.wassmann@caritas-ms.de",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
@@ -626,7 +626,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-48",
-    "Mail": "heymann@ggua.de",
+    "Mail": "clearingstelle@ggua.de",
     "Schlagworte": "Malteser Medizin für Menschen ohne Krankenversicherung, Malteserzentrum, Krankenversicherung"
   },
     {
@@ -641,7 +641,7 @@
     "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
     "__1": "",
     "Telefon": "",
-    "Mail": "",
+    "Mail": "clearingstelle@ggua.de",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
   },
   {
@@ -702,7 +702,7 @@
     "__1": "",
     "Telefon": "02 51 / 49 01 5-0",
     "Mail": "beratungs-und-bildungscentrum@diakonie-muenster.de",
-    "Schlagworte": "Begleitung junger Menschen (im Alter von 12-27 Jahren) und Erwachsener in Münster und Warendorf"
+    "Schlagworte": "Migrationsberatung für Erwachsene (MBE), Beratung für arbeitssuchende Menschen mit Migrationsvorgeschichte in Münster, Jugendmigrationsdienst (JMD) Münster / Warendorf, Respektcoach"
   },
   {
     "Name": "UKM-Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen am Universitätsklinikum Münster",
