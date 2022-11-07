@@ -1231,16 +1231,16 @@
   },
   {
     "Name": "Bürger- und Beratungszentrum Alte Post - Berg Fidel",
-    "Adress": "Rincklakeweg 21, 48153 Münster",
+    "Adress": "St. Maximilian Kolbe Haus, Rincklakeweg 21, 48153 Münster",
     "X": 7.62089,
     "Y": 51.92654,
     "Kategorie": "",
     "": "",
     "Thema": "Deutschkurse",
     "Beschreibung": "Deutschkurse für Erwachsene, Alphabetisierungskurse, Arabischkurse (Angebot in Berg Fidel)",
-    "Website": "http://www.muenster.org/altepost-bergfidel/termine/regelmaessige-termine/9-nicht-kategorisiert/82-bildungsangebote",
+    "Website": "https://www.muenster.org/altepost-bergfidel/",
     "__1": "",
-    "Telefon": "02 51 / 7 63 68 08",
+    "Telefon": "02 51 / 2 08 47 57",
     "Mail": "altepost@muenster.org",
     "Schlagworte": "Deutschkurse für Erwachsene (Angebot in Berg Fidel), Alphabetisierungskurse (Angebot in Berg Fidel), Arabischkurse (Angebot in Berg Fidel)"
   },
@@ -1252,12 +1252,12 @@
     "Kategorie": "",
     "": "",
     "Thema": "Deutschkurse",
-    "Beschreibung": "Deutschkurse für Mütter / Frauen, Integrationskurse, Basissprachkurse zur Arbeitsmarktintegration von Flüchtlingen, Berufsbezogene Sprachförderung/Sprachkurse",
+    "Beschreibung": "Integrationskurse, Basissprachkurse zur Arbeitsmarktintegration, Berufsbezogene Sprachförderung/Sprachkurse, Coachings für Kunden des Jobcenters",
     "Website": "http://www.geba-muenster.de/muenster",
     "__1": "",
     "Telefon": "02 51 / 9 81 12 80",
     "Mail": "kontakt@geba-muenster.de",
-    "Schlagworte": "Deutschkurse für Mütter / Frauen, Integrationskurse, Basissprachkurse zur Arbeitsmarktintegration von Flüchtlingen, Berufsbezogene Sprachförderung/Sprachkurse"
+    "Schlagworte": "Integrationskurse, Basissprachkurse zur Arbeitsmarktintegration, Berufsbezogene Sprachförderung/Sprachkurse, Coachings für Kunden des Jobcenters"
   },
   {
     "Name": "Haus der Familie",
