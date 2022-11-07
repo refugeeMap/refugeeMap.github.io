@@ -1268,7 +1268,7 @@
     "": "",
     "Thema": "Deutschkurse",
     "Beschreibung": "Deutsch-Sprach- und Alphabetisierungskurs für Mütter, Einfache Kurse ohne Zertifikat in verschiedenen Stadtteilen",
-    "Website": "https://www.haus-der-familie-muenster.de",
+    "Website": "https://www.haus-der-familie-muenster.de/",
     "__1": "",
     "Telefon": "02 51 / 4 18 66-0",
     "Mail": "fbs-muenster@bistum-muenster.de",
@@ -1283,11 +1283,11 @@
     "": "",
     "Thema": "Deutschkurse",
     "Beschreibung": "Alphabetisierungskurse , Deutsch-Sprachkurse aller Niveaus",
-    "Website": "https://vhs.muenster.de/programm/fachbereiche-sprachen-und-laender-deutsch-als-fremdsprache",
+    "Website": "https://www.stadt-muenster.de/vhs/startseite",
     "__1": "",
     "Telefon": "02 51/4 92-43 21",
     "Mail": "vhs@stadt-muenster.de",
-    "Schlagworte": "Alphabetisierungskurse, Deutsch-Sprachkurse aller Niveaus"
+    "Schlagworte": "Alphabetisierungskurse, Deutsch-Sprachkurse in allen Niveaus, Prüfungen"
   },
   {
     "Name": "Anna-Krückmann-Haus",
@@ -1305,21 +1305,6 @@
     "Schlagworte": "Einfache Sprachkurse ohne Zertifikat in verschiedenen Stadtteilen"
   },
   {
-    "Name": "Arbeitsgemeinschaft Betriebssozialarbeit e.V.",
-    "Adress": "Verwaltung: Graelstraße 3, 48153 Münster",
-    "X": 7.62884667983482,
-    "Y": 51.9544048,
-    "Kategorie": "",
-    "": "",
-    "Thema": "Arbeit",
-    "Beschreibung": "Integration von Geflüchteten in den Arbeitsmarkt",
-    "Website": "https://www.agbsa.de/",
-    "__1": "",
-    "Telefon": "02 51 / 4 48 17",
-    "Mail": "mail@agbsa.de",
-    "Schlagworte": "Verschiedene Angebote für geflüchtete Menschen zur Integration auf dem Arbeitsmarkt, Coaching - Beratung"
-  },
-    {
     "Name": "Arbeitsgemeinschaft Betriebssozialarbeit e.V.",
     "Adress": "Werkstatt und Schulung: Nieberdingstraße 30 (Haus 1), 48155 Münster",
     "X": 7.64122240826806,
