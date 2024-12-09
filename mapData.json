@@ -116,7 +116,7 @@
     "Website": "https://www.mamba-muenster.de/start/",
     "__1": "",
     "Telefon": "02 51 / 1 44 86-29 oder 02 51 / 1 44 86 47",
-    "Mail": "koetter@ggua.de",
+    "Mail": "",
     "Schlagworte": "Beratung zur Arbeitssuche und Bewerbungen für über 25-Jährige mit Aufenthaltsgenehmigung oder Duldung"
   },
   {
@@ -131,7 +131,7 @@
     "Website": "https://www.mamba-muenster.de/start/",
     "__1": "",
     "Telefon": "02 51 / 6 09 44 19",
-    "Mail": "schwartz@ggua.de",
+    "Mail": "",
     "Schlagworte": "Beratung zur Arbeitssuche und Bewerbungen für bis zu 25-Jährige mit Aufenthaltsgenehmigung oder Duldung"
   },
   {
@@ -224,37 +224,7 @@
     "Mail": "",
     "Schlagworte": "Integrationskurse, Arbeit und Ausbildung, Anerkennung ausländischer Zeugnisse und Berufsabschlüsse, berufliche Weiterbildung und Umschulung, Vermittlung zu Fachdiensten und Behörden, Anträge und amtliche Post, Kinderbetreuung, finanzielle Fragen und soziale Leistungen, Gesundheitsversorgung, Niederlassungserlaubnis, Aufenthalt, Einbürgerung"
   },
-  {
-    "Name": "Deutsches Rotes Kreuz – Ausreise- und Perspektivberatung",
-    "Adress": "Albersloher Weg 450, 48167 Münster",
-    "X": 7.665640,
-    "Y": 51.926533,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Ausreise- und Perspektivberatung des DRK Münster für Geflüchtete, die aus unterschiedlichen Gründen freiwillig und selbstständig in ihr Heimatland zurückkehren wollen",
-    "Website": "https://www.drk-muenster.de/angebot/migration/ausreiseberatung-perspektivberatung.html",
-    "__1": "",
-    "Telefon": "01 75 / 1 99 54 92",
-    "Mail": "carolin.anczykowski@drk-muenster.de",
-    "Schlagworte": "Ausreise- und Perspektivberatung des DRK Münster für rückkehrwillige Geflüchtete, Alternativen zur Ausreise, Beschaffung von Dokumenten, gesundheitsliche Versorgung, Arbeitssuche im Zielland, Ausreise mit Kindern, Ausreise bei Krankheit"
-  },
-    {
-    "Name": "Deutsches Rotes Kreuz - Regionale Beratung",
-    "Adress": "Zumsandestraße 25/27, 48145 Münster",
-    "X": 7.641752,
-    "Y": 51.960038,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Kontakt mit Ämtern",
-    "Website": "https://www.drk-muenster.de/angebot/migration/zuhause-finden/wohnlotsen/",
-    "__1": "",
-    "Telefon": "01 60 / 95 31 20 87",
-    "Mail": "dominik.maier@drk-muenster.de",
-    "Schlagworte": "Asylverfahren und Aufenthalt, Soziale Absicherung nach dem Asylbewerberleistungsgesetz, Wohnung und Unterbringung, Deutsch lernen und Integrationskurs, Kindergarten und Schule, Gesundheit, Amtliche Post, Ausfüllen von Anträgen und Formularen"
-  },
-    {
+     {
     "Name": "DRK Joblotsen",
     "Adress": "Begegnungszentrum Coerde Mittendrin, Königsberger Straße 8, 48157 Münster",
     "X": 7.639990,
@@ -299,22 +269,7 @@
     "Mail": "beratungs-und-bildungscentrum@diakonie-muenster.de",
     "Schlagworte": "Wohnungssuche, Mietprobleme, Arbeit finden, Übersetzungen, Schule, Ausländerrecht, Anerkennung von Schul- und Berufsabschlüssen, Bildung"
   },
-  {
-    "Name": "Afrika Kooperative e.V.",
-    "Adress": "In der Au 11b, 48159 Münster",
-    "X": 7.614706,
-    "Y": 52.036783,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Kultur",
-    "Beschreibung": "Kultur, Themenabende, Konzerte, Lesungen, Diskussionen",
-    "Website": "http://afrika-kooperative.blogspot.com",
-    "__1": "",
-    "Telefon": "01 70 / 4 76 07 09",
-    "Mail": "info@afrika-kooperative.de",
-    "Schlagworte": "Kultur, Themenabende, Konzerte, Lesungen, Diskussionen"
-  },
-  {
+    {
     "Name": "Amnesty International - MS Asylgruppe",
     "Adress": "Achtermannstraße 10-12, 48143 Münster",
     "X": 7.633107,
@@ -383,43 +338,13 @@
     "": "",
     "Thema": "Freizeit",
     "Beschreibung": "Fahrradkurse für geflüchtete Frauen",
-    "Website": "https://radfahrenfuerfluechtlinge.wordpress.com/",
+    "Website": "https://ifmmuenster.org/",
     "__1": "",
     "Telefon": "02 51 / 1 36 74 73",
     "Mail": "",
     "Schlagworte": "Fahrradkurse für geflüchtete Frauen"
   },
-  {
-    "Name": "Flüchtlingshilfe Münster SüdOst",
-    "Adress": "Evangelische Kirchengemeinde Wolbeck, Dirk-von-Merveldt-Straße 47, 48167 Münster",
-    "X": 7.72662,
-    "Y": 51.919019,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Flüchtlingshilfe, Hilfestellungen im Alltag",
-    "Website": "https://fluechtlingshilfe.st-nikolaus-muenster.de/",
-    "__1": "",
-    "Telefon": "0 25 06 81 01 110 (Pfarrbüro)",
-    "Mail": "",
-    "Schlagworte": "Flüchtlingshilfe, Hilfestellungen im Alltag"
-  },
-  {
-    "Name": "Flüchtlingshilfe Münster Ost – Mauritz",
-    "Adress": "",
-    "X": 7.697765,
-    "Y": 51.988405,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Flüchtlingshilfe, Hilfestellungen im Alltag",
-    "Website": "https://www.fluemo-mauritz.de/",
-    "__1": "",
-    "Telefon": "",
-    "Mail": "",
-    "Schlagworte": "Flüchtlingshilfe, Hilfestellungen im Alltag"
-  },
-  {
+    {
     "Name": "Flüchtlingsnetzwerk Hiltrup",
     "Adress": "Stadtteilbücherei Münster-Hiltrup St. Clemens, Hohe Geest 1b, 48165 Münster",
     "X": 7.641193,
@@ -443,9 +368,9 @@
     "": "",
     "Thema": "Beratung",
     "Beschreibung": "Flüchtlingshilfe, Hilfestellungen im Alltag",
-    "Website": "http://willkommen-in-mecklenbeck.de/",
+    "Website": "http://willkommen.buergerverein-mecklenbeck.de/",
     "__1": "",
-    "Telefon": "02 51 / 7 16 40 (Anrufbeantworter)",
+    "Telefon": "01 71 / 5 52 34 71",
     "Mail": "organisation@willkommen-in-mecklenbeck.de",
     "Schlagworte": "Flüchtlingshilfe"
   },
