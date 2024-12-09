@@ -449,37 +449,7 @@
     "Mail": "i.rosin@awo-msl-re.de",
     "Schlagworte": "Migrationsberatung für erwachsene Zuwanderer"
   },
-  {
-    "Name": "Caritas vor Ort – Beratungsstelle Kinderhaus - Migrationsberatung",
-    "Adress": "Idenbrockplatz 8 , 48159 Münster",
-    "X": 7.603707,
-    "Y": 51.99566,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Migrationsberatung in Caritas vor Ort-Beratungsstellen",
-    "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
-    "__1": "",
-    "Telefon": "02 51 / 2 63 35-0",
-    "Mail": "beratungsstelle.kinderhaus@caritas-ms.de",
-    "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
-  },
-  {
-    "Name": "Caritas vor Ort – Beratungsstelle Gievenbeck - Migrationsberatung",
-    "Adress": "Heinrich-Ebel-Straße 41, 48161 Münster",
-    "X": 7.564643,
-    "Y": 51.96765,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Beratung",
-    "Beschreibung": "Migrationsberatung in Caritas vor Ort-Beratungsstellen",
-    "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/cvo-beratungsstellen/cvo-beratungsstellen-migration",
-    "__1": "",
-    "Telefon": "02 51 / 8 71 04-0",
-    "Mail": "beratungsstelle.gievenbeck@caritas-ms.de",
-    "Schlagworte": "Beratung und Unterstützung von Menschen mit Migrationshintergrund"
-  },
-  {
+    {
     "Name": "Caritas Münster<br>Fachdienst für Integration und Migration",
     "Adress": "Goldstraße 30, 48147 Münster",
     "X": 7.637963,
@@ -488,7 +458,7 @@
     "": "",
     "Thema": "Beratung",
     "Beschreibung": "Fachdienst für Integration und Migration",
-    "Website": "https://www.caritas-ms.de/hilfe-beratung/migrationsdienst/migrationsdienst",
+    "Website": "https://www.caritas-ms.de/de/einrichtungen-und-angebote/beratung-und-lebenshilfe/migration-und-gefluechtete/",
     "__1": "",
     "Telefon": "02 51 / 5 30 09-769",
     "Mail": "migrationsdienst@caritas-ms.de",
@@ -509,22 +479,7 @@
     "Mail": "clearingstelle@ggua.de",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung, Verbesserung der Versorgungssituation von Menschen ohne Papiere"
   },
-  {
-    "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
-    "Adress": "Josefstraße 2, 48147 Münster",
-    "X": 7.625093,
-    "Y": 51.953779,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Gesundheit",
-    "Beschreibung": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung",
-    "Website": "https://www.ggua.de/arbeitsbereiche/klar-fuer-gesundheit/",
-    "__1": "",
-    "Telefon": "02 51 / 5 30 09-764",
-    "Mail": "bouchra.wassmann@caritas-ms.de",
-    "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
-  },
-  {
+   {
     "Name": "„Klar für Gesundheit“ - Clearingstelle zur Verbesserung der gesundheitlichen Versorgung von Zugewanderten",
     "Adress": "Daimlerweg 33, 48163 Münster",
     "X": 7.59538,
@@ -553,21 +508,6 @@
     "Telefon": "",
     "Mail": "clearingstelle@ggua.de",
     "Schlagworte": "Vermittlung eines regelhaften Zugangs in die gesetzliche oder private Krankenversicherung"
-  },
-  {
-    "Name": "Internationales FrauenQuasselcafé",
-    "Adress": "Hafenstraße 3-5, 48153 Münster",
-    "X": 7.628029,
-    "Y": 51.955178,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Treffpunkte",
-    "Beschreibung": "Treffpunkt für Frauen zum Kontakte knüpfen, für Gespräche und Begegnungen. Das Café findet einmal im Monat, jew. Am zweiten Dienstag, in der Zeit von 16 bis 18 Uhr statt.",
-    "Website": "https://www.ggua.de/arbeitsbereiche/internationales-frauenquasselcafe/",
-    "__1": "",
-    "Telefon": "02 51 / 1 44 86-12",
-    "Mail": "steinhaus@ggua.de",
-    "Schlagworte": "Treffpunkt für Frauen"
   },
       {
     "Name": "GGUA Flüchtlingshilfe",
@@ -614,37 +554,7 @@
     "Mail": "beratungs-und-bildungscentrum@diakonie-muenster.de",
     "Schlagworte": "Migrationsberatung für Erwachsene (MBE), Beratung für arbeitssuchende Menschen mit Migrationsvorgeschichte in Münster, Jugendmigrationsdienst (JMD) Münster / Warendorf, Respektcoach"
   },
-  {
-    "Name": "UKM-Spezialsprechstunde für Flüchtlingskinder, ihre Familien und Bezugspersonen am Universitätsklinikum Münster",
-    "Adress": "Schmeddingstraße 50, 48149 Münster",
-    "X": 7.591560,
-    "Y": 51.958430,
-    "Kategorie": "",
-    "": "",
-    "Thema": "Gesundheit",
-    "Beschreibung": "Psychotherapeutische Erstversorgung, psychologische Betreuung u. Unterstützung",
-    "Website": "https://web.ukm.de/index.php?id=kjp_spezialsprechstunden",
-    "__1": "",
-    "Telefon": "02 51 / 83-56 673",
-    "Mail": "kipsych-ambulanz@ukmuenster.de",
-    "Schlagworte": "Kinder, Beratung, Geflüchtete, Trauma"
-  },
-  {
-    "Name": "NIMA'S e.V",
-    "Adress": "Kapustaweg 10, 48159 Münster",
-    "X": 7.618231,
-    "Y": 52.033555,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Arbeit",
-    "Beschreibung": "Unterstützung von Kindern und Jugendlichen aus einkommensschwachen Familien, Kinder aus Familien mit Migrationshintergrund sowie Kinder und Jugendliche aus Flüchtlingsfamilien um den Weg der schulischen und beruflichen Ausbildung fördern",
-    "Website": "https://www.muenster-nord.de/sprakel/nimas-e-v-verein-zur-ausbildungsfoerderung/",
-    "__1": "",
-    "Telefon": "02 51 / 70 37 65 45",
-    "Mail": "info@nimas.org",
-    "Schlagworte": "Unterstützung von Kindern und Jugendlichen aus Familien mit Migrationshintergrund, Förderung der schulischen und beruflichen Ausbildung"
-  },
-  {
+     {
     "Name": "Mieter/innen-Schutzverein Münster und Umgebung e.V.",
     "Adress": "Achtermannstraße 10, 48143 Münster",
     "X": 7.633107,
@@ -659,22 +569,7 @@
     "Mail": "info@msv-muenster.de",
     "Schlagworte": "Vertretung der Interessen und Rechte von Mieterinnen und Mietern"
   },
-  {
-    "Name": "Mieterverein Wohn-in",
-    "Adress": "Hammer Straße 26 c, 48153 Münster",
-    "X": 7.624973,
-    "Y": 51.953233,
-    "Kategorie": "Projekte, Initiativen, Vereine",
-    "": "",
-    "Thema": "Wohnen",
-    "Beschreibung": "Mitgliedern bei der provisionsfreien Wohnungssuche im Großraum Münster sowie bei Fragen zum Mietrecht und dem Mietverhältnis.",
-    "Website": "https://www.wohn-in.de/",
-    "__1": "",
-    "Telefon": "02 51 / 52 30 21",
-    "Mail": "wohn-in@wohn-in.de",
-    "Schlagworte": "Rechtsberatung, Wohnungssuche, Konfliktberatung, Rechtliche Prüfung von Nebenkostenabrechnungen u.a."
-  },
-  {
+   {
     "Name": "Zartbitter Münster e.V.",
     "Adress": "Berliner Platz 8, 48143 Münster",
     "X": 7.634782,
